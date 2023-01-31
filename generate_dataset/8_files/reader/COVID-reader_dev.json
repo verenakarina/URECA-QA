@@ -1,0 +1,1682 @@
+[
+    {
+        "question": "what is the relationship between hin1 viral transmission and poultry production.",
+        "answers": [
+            "landscapes where intensive and extensive forms of poultry production overlap were found at greater risk"
+        ],
+        "ctxs": [
+            {
+                "id": "267",
+                "title": "evidence for the convergence model: the emergence of highly pathogenic avian influenza (h5n1) in viet nam",
+                "text": "the work highlights that peri-urban areas of viet nam have higher levels of chicken densities, duck and geese flock size diversities, and fraction of land under rice or aquaculture than rural and urban areas. we also found that land-use diversity, a surrogate measure for potential mixing of host populations and other factors that likely influence viral transmission, significantly improves the model\u2019s predictability. similarly, landscapes where intensive and extensive forms of poultry production overlap were found at greater risk. these results support the convergence hypothesis in general and demonstrate the potential to improve eid prevention and control by combing geospatial monitoring of these factors along with pathogen surveillance programs.text: two decades after the institute of medicine's seminal report  recognized novel and reemerging diseases as a new category of microbial threats, the perpetual and unexpected nature of the emergence of infectious diseases remains a challenge in spite of significant clinical and biomedical research advances  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what method is developed in this study?",
+        "answers": [
+            "a bats-hosts-reservoir-people transmission network model for simulating the potential transmission from the infection source (probably be bats) to the human infection."
+        ],
+        "ctxs": [
+            {
+                "id": "867",
+                "title": "a mathematical model for simulating the phase-based transmissibility of a novel coronavirus",
+                "text": "background as reported by the world health organization, a novel coronavirus (2019-ncov) was identified as the causative virus of wuhan pneumonia of unknown etiology by chinese authorities on 7 january, 2020. the virus was named as severe acute respiratory syndrome coronavirus 2 (sars-cov-2) by international committee on taxonomy of viruses on 11 february, 2020. this study aimed to develop a mathematical model for calculating the transmissibility of the virus. methods in this study, we developed a bats-hosts-reservoir-people transmission network model for simulating the potential transmission from the infection source (probably be bats) to the human infection. since the bats-hosts-reservoir network was hard to explore clearly and public concerns were focusing on the transmission from huanan seafood wholesale market (reservoir) to people, we simplified the model as reservoir-people (rp) transmission network model. the next generation matrix approach was adopted to calculate the basic reproduction number (r 0) from the rp model to assess the transmissibility of the sars-cov-2.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what are the most common methods of inhaled delivery of medications?",
+        "answers": [
+            "metered dose inhalers (mdis) and dry powder inhalers (dpis)"
+        ],
+        "ctxs": [
+            {
+                "id": "75",
+                "title": "rnai therapeutic platforms for lung diseases",
+                "text": "therefore, it is important to consider the route of administration in animal studies when assessing the delivery and therapeutic efficacy of a formulation for pulmonary delivery. careful choice of efficient delivery in response to the condition of lung diseases is necessary.the use of aerosols to deliver medication to the lungs has a long history. administration by inhalation is a popular and non-invasive method of delivering agents into the lungs. there are several inhalation devices available for the delivery of drugs into the lungs. metered dose inhalers (mdis) and dry powder inhalers (dpis) are the most common modes of inhaled delivery. mdis are the most commonly used inhalers for several lung diseases, such as asthma, bronchitis, and chronic obstructive pulmonary disease (copd), and a spacer is an external device that is attached to an mdi to allow for better drug delivery by enhanced actuation and inhalation coordination.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what are the potential novel applications of the filamentous phage?",
+        "answers": [
+            "(i) filamentous phage as a vaccine carrier; (ii) engineered filamentous phage as a therapeutic biologic agent in infectious and chronic diseases; (iii) filamentous phage as a scaffold for bioconjugation and surface chemistry; and (iv) filamentous phage as an engine for evolving variants of displayed proteins with novel functions."
+        ],
+        "ctxs": [
+            {
+                "id": "481",
+                "title": "beyond phage display: non-traditional applications of the filamentous bacteriophage as a vaccine carrier, therapeutic biologic, and bioconjugation scaffold",
+                "text": "these tend to fall into four major categories of use: (i) filamentous phage as a vaccine carrier; (ii) engineered filamentous phage as a therapeutic biologic agent in infectious and chronic diseases; (iii) filamentous phage as a scaffold for bioconjugation and surface chemistry; and (iv) filamentous phage as an engine for evolving variants of displayed proteins with novel functions. a final section is dedicated to recent developments in filamentous phage ecology and phage-host interactions. common themes shared amongst all these applications include the unique biological, immunological, and physicochemical properties of the phage, its ability to display a variety of biomolecules in modular fashion, and its relative simplicity and ease of manipulation.nearly all applications of the filamentous phage depend on its ability to display polypeptides on the virion's surface as fusions to phage coat proteins ( table 1) .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how many people  are estimated to need humanitarian assistance in 2020?",
+        "answers": [
+            "168 million people across 50 countries"
+        ],
+        "ctxs": [
+            {
+                "id": "1085",
+                "title": "responding to the covid-19 pandemic in complex humanitarian crises",
+                "text": "nantext: over 168 million people across 50 countries are estimated to need humanitarian assistance in 2020  . response to epidemics in complex humanitarian crisessuch as the recent cholera epidemic in yemen and the ebola epidemic in the democratic republic of congois a global health challenge of increasing scale  . the thousands of yemeni and congolese who have died in these years-long epidemics demonstrate the difficulty of combatting even well-known pathogens in humanitarian settings. the novel severe acute respiratory syndrome coronavirus-2 (sars-cov-2) may represent a still greater threat to those in complex humanitarian crises, which lack the infrastructure, support, and health systems to mount a comprehensive response. poor governance, public distrust, and political violence may further undermine interventions in these settings.populations affected by humanitarian crises are expected to be particularly susceptible to covid-19, the disease caused by sars-cov-2, due to displacement, crowded housing, malnutrition, inadequate water, sanitation, and hygiene (wash) tools, and stigmatization.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what other measures rapid diagnostics facilitates?",
+        "answers": [
+            "specific public health interventions such as closure of high-risk facilities and areas associated with the confirmed cases for prompt infection control and environmental decontamination"
+        ],
+        "ctxs": [
+            {
+                "id": "596",
+                "title": "potential rapid diagnostics, vaccine and therapeutics for 2019 novel coronavirus (2019-ncov): a systematic review",
+                "text": "local transmission and clusters can be prevented or delayed by isolation of laboratory-confirmed cases and their close contacts quarantined and monitored at home. rapid diagnostic also facilitates other specific public health interventions such as closure of high-risk facilities and areas associated with the confirmed cases for prompt infection control and environmental decontamination [11, 101] .laboratory diagnosis can be performed by: (a) detecting the genetic material of the virus, (b) detecting the antibodies that neutralize the viral particles of interest, (c) detecting the viral epitopes of interest with antibodies (serological testing), or (d) culture and isolation of viable virus particles.the key limitations of genetic material detection are the lack of knowledge of the presence of viable virus, the potential cross-reactivity with non-specific genetic regions and the short timeframe for accurate detection during the acute infection phase.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how many severe cases are there for annual influenza epidemics?",
+        "answers": [
+            "worldwide, annual epidemics result in about three to five million cases of severe illness"
+        ],
+        "ctxs": [
+            {
+                "id": "330",
+                "title": "the intranasal application of zanamivir and carrageenan is synergistically active against influenza a virus in the murine model",
+                "text": "however, in its fully developed form influenza is an acute respiratory disease resulting in hospitalizations and deaths mainly among high-risk groups. worldwide, annual epidemics result in about three to five million cases of severe illness, and about 250,000 to 500,000 deaths  . for this reason who  and cdc  recommend antiviral treatment for any patient with suspected influenza who is at risk for influenza complications without previous laboratory confirmation.it is known that influenza virus infections are often accompanied by other viral pathogens  . depending on the detection method (qrt-pcr or immunofluorescence) different ratios of co-infections have been found. analysis by qrt-pcr revealed that 54.5-83.3% of influenza a or b positive patients were found to have at least one concomitant respiratory viral infection     . the detection frequency with immunofluorescence was found to be even higher (90-100%) [13, 14] .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what plays the crucial role in the mother to child transmission of hiv-1 and what increases the risk",
+        "answers": [
+            "dc-signr plays a crucial role in mtct of hiv-1 and that impaired placental dc-signr expression increases risk of transmission."
+        ],
+        "ctxs": [
+            {
+                "id": "1",
+                "title": "functional genetic variants in dc-signr are associated with mother-to-child transmission of hiv-1",
+                "text": "the implicated h1 and h3 haplotypes share two single nucleotide polymorphisms (snps) in promoter region (p-198a) and intron 2 (int2-180a) that were associated with increased risk of both iu (p = 0.045 and p = 0.003, respectively) and ip (p = 0.025, for int2-180a) hiv-1 infection. the promoter variant reduced transcriptional activity in vitro. in homozygous h1 infants bearing both the p-198a and int2-180a mutations, we observed a 4-fold decrease in the level of placental dc-signr transcripts, disproportionately affecting the expression of membrane-bound isoforms compared to infant noncarriers (p = 0.011). conclusion: these results suggest that dc-signr plays a crucial role in mtct of hiv-1 and that impaired placental dc-signr expression increases risk of transmission.text: without specific interventions, the rate of hiv-1 mother-tochild transmission (mtct) is approximately 15-45%  . unaids estimates that last year alone, more than 400,000 children were infected worldwide, mostly through mtct and 90% of them lived in sub-saharan africa.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what are potential vaccines based on?",
+        "answers": [
+            "messenger rna, dna-based, nanoparticle, synthetic and modified virus-like particle)"
+        ],
+        "ctxs": [
+            {
+                "id": "580",
+                "title": "potential rapid diagnostics, vaccine and therapeutics for 2019 novel coronavirus (2019-ncov): a systematic review",
+                "text": "real-time reverse-transcription pcr (rrt-pcr); rna-dependent rna polymerase (rdrp); open reading frame 1a (orf1a); loop-mediated isothermal amplification (lamp); enzyme-linked immunosorbent assay (elisa); immunofluorescent assay (ifa); immunochromatographic test (ict); nasopharyngeal aspirate (npa). with the emergence of 2019-ncov, there are about 15 potential vaccine candidates in the pipeline globally (table 3 ), in which a wide range of technology (such as messenger rna, dna-based, nanoparticle, synthetic and modified virus-like particle) was applied. it will likely take about a year for most candidates to start phase 1 clinical trials except for those funded by coalition for epidemic preparedness innovations (cepi). however, the kit developed by the bgi have passed emergency approval procedure of the national medical products administration, and are currently used in clinical and surveillance centers of china  .of the total of 570 unique studies on 2019-ncov, sars cov or mers-cov vaccines screened, only four were eventually included in the review.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how big was the temporary hospital built in wuhan city for treatment of covid-19 patients?",
+        "answers": [
+            "1000 bed hospital"
+        ],
+        "ctxs": [
+            {
+                "id": "418",
+                "title": "sars to novel coronavirus \u2013 old lessons and new lessons",
+                "text": "this event was reported to the world health organisation (who) on 31 december . within 4 weeks, by 26 january 2020, the causative organism had been identified as a novel coronavirus, the genome of the virus had been sequenced and published, reverse transcription polymerase chain reaction tests had been developed, the who r&d blueprint had been activated to accelerate diagnostics, therapeutics and vaccine development and a candidate vaccine was ready for initial laboratory testing. currently chinese health authorities are building a 1000 bed hospital in wuhan in 10 days.by 26 january also, almost 50 million people in wuhan and neighbouring cities had effectively been placed in quarantine while the who had determined that the event should not yet be declared as a public health emergency of international concern (pheic)  and had recommended no specific travel restrictions.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the mortality rate of venezuelan equine encephalitis virus in children?",
+        "answers": [
+            "35%"
+        ],
+        "ctxs": [
+            {
+                "id": "520",
+                "title": "venezuelan equine encephalitis virus induces apoptosis through the unfolded protein response activation of egr1",
+                "text": "the ia/b and ic strains are of particular concern due to increased rates of morbidity and mortality and the risks associated with viral amplification and potential species spillover (2) . in humans, veev causes a febrile illness typified by fever, malaise, and vomiting. in some cases, infection progresses to the central nervous system (cns) and neurological symptoms, such as confusion, ataxia, and seizures, manifest. the mortality rate among cases with neurological symptoms can be as high as 35% in children and 10% in adults, with long-term neurological deficits often being seen in survivors (2) . in 1995, an outbreak of veev in colombia and venezuela resulted in over 100,000 human cases (3) . in addition to natural outbreaks, veev is also a concern from a bioterrorism perspective, as it can be grown to high titers, requires a low infectious dose, and contains multiple serotypes.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what was the cumulative number of reported cases by 1 january 2020?",
+        "answers": [
+            "sed"
+        ],
+        "ctxs": [
+            {
+                "id": "1015",
+                "title": "estimating the unreported number of novel coronavirus (2019-ncov) cases in china in the first half of january 2020: a data-driven modelling analysis of the early outbreak",
+                "text": " in december 2019, an outbreak of respiratory illness caused by a novel coronavirus (2019-ncov) emerged in wuhan, china and has swiftly spread to other parts of china and a number of foreign countries. the 2019-ncov cases might have been under-reported roughly from 1 to 15 january 2020, and thus we estimated the number of unreported cases and the basic reproduction number, r0, of 2019-ncov.  we modelled the epidemic curve of 2019-ncov cases, in mainland china from 1 december 2019 to 24 january 2020 through the exponential growth. the number of unreported cases was determined by the maximum likelihood estimation. we used the serial intervals (si) of infection caused by two other well-known coronaviruses (cov), severe acute respiratory syndrome (sars) and middle east respiratory syndrome (mers) covs, as approximations of the unknown si for 2019-ncov to estimate r0.  we confirmed that the initial growth phase followed an exponential growth pattern.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "which rad5 delivery has been tested?",
+        "answers": [
+            "a rad5-ha expressing the ha from a/puerto rico/8/1934 (h1n1; pr8) was delivered to humans epicutaneously or intranasally"
+        ],
+        "ctxs": [
+            {
+                "id": "689",
+                "title": "virus-vectored influenza virus vaccines",
+                "text": "importantly, the latter two delivery methods induce robust mucosal immune responses and may bypass preexisting vector immunity  . even replication-defective adenovirus vectors are naturally immunostimulatory and effective adjuvants to the recombinant antigen being delivered. adenovirus has been extensively studied as a vaccine vector for human disease. the first report using adenovirus as a vaccine vector for influenza demonstrated immunogenicity of recombinant adenovirus 5 (rad5) expressing the ha of a swine influenza virus, a/swine/iowa/1999 (h3n2). intramuscular immunization of mice with this construct induced robust neutralizing antibody responses and protected mice from challenge with a heterologous virus, a/hong kong/1/1968 (h3n2)  . replication defective rad5 vaccines expressing influenza ha have also been tested in humans. a rad5-ha expressing the ha from a/puerto rico/8/1934 (h1n1; pr8) was delivered to humans epicutaneously or intranasally and assayed for safety and immunogenicity. the vaccine was well tolerated and induced seroconversion with the intranasal administration had a higher conversion rate and higher geometric meant hi titers  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how was the survey designed?",
+        "answers": [
+            "in accordance with who recommendations"
+        ],
+        "ctxs": [
+            {
+                "id": "55",
+                "title": "changes in pulmonary tuberculosis prevalence: evidence from the 2010 population survey in a populous province of china",
+                "text": "the design of the surveys was in accordance with who recommendations  . the design effect factor due to cluster sampling was estimated at 1.28  . a sample size of 52500 adults (\u226715 years old), in 35 clusters, was calculated based on detecting a change of 20% in prevalence rate of tb smear positive cases compared with the rate of the 2000 survey (95 per 100,000), with a probability greater than 95% and 95% power, accounting for 90% response rate of participants  .a stratified multi stage random sampling was used to select the 35 clusters within 17 prefectures in shandong province. the number of clusters was randomly allocated in proportion to the provincial population at the prefectural, county/district and township levels. a cluster was defined as a community (a village in the rural area or a resident community in an urban area) with a population of 1250 to 1750 adults (i.e., those of 15 years or older).",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "when was sars-cov first identified?",
+        "answers": [
+            "2003"
+        ],
+        "ctxs": [
+            {
+                "id": "531",
+                "title": "host resilience to emerging coronaviruses",
+                "text": "severe acute respiratory syndrome coronavirus (sars-cov) was first identified in 2003     . while there was initially great concern about sars-cov, once no new cases emerged, funding and research decreased. however, a decade later middle east respiratory syndrome coronavirus (mers-cov), also known as hcov-emc, emerged initially in saudi arabia [3, 10] . sars-cov infected about 8000 people, and resulted in the deaths of approximately 10% of those infected  . while mers-cov is not as widespread as sars-cov, it appears to have an even higher mortality rate, with 35-50% of diagnosed infections resulting in death [3,   . these deadly betacoronavirus viruses existed in animal reservoirs   9,   . recently, other covs have been detected in animal populations raising the possibility that we will see a repeat of these types of outbreaks in the near future [11,      . both these zoonotic viruses cause a much more severe disease than what is typically seen for covs, making them a global health concern.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the indication for protection to influenza?",
+        "answers": [
+            "a four-fold increase in titer post-vaccination, or a hi titer of \u22651:40 is considered protective"
+        ],
+        "ctxs": [
+            {
+                "id": "656",
+                "title": "virus-vectored influenza virus vaccines",
+                "text": "tiv efficacy is measured by induction of humoral responses to the hemagglutinin (ha) protein, the major surface and attachment glycoprotein on influenza. serum antibody responses to ha are measured by the hemagglutination-inhibition (hi) assay, and the strain-specific hi titer is considered the gold-standard correlate of immunity to influenza where a four-fold increase in titer post-vaccination, or a hi titer of \u22651:40 is considered protective [4, 14] . protection against clinical disease is mainly conferred by serum antibodies; however, mucosal iga antibodies also may contribute to resistance against infection. split virus inactivated vaccines can induce neuraminidase (na)-specific antibody responses    , and anti-na antibodies have been associated with protection from infection in humans      . currently, na-specific antibody responses are not considered a correlate of protection  . laiv is administered as a nasal spray and contains the same three or four influenza virus strains as inactivated vaccines but on an attenuated vaccine backbone  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "when do respiratory infections usually happen?",
+        "answers": [
+            "during winter and early spring months"
+        ],
+        "ctxs": [
+            {
+                "id": "196",
+                "title": "aetiology of acute respiratory tract infections in hospitalised children in cyprus",
+                "text": "rapid diagnosis is important not only for timely therapeutic intervention but also for the identification of a beginning influenza epidemic and the avoidance of unnecessary antibiotic treatment [3, 4] .rtis are a major cause of morbidity and mortality worldwide. acute rti is most common in children under five years of age, and represents 30-50% of the paediatric medical admissions, as well as 20-40% of hospitalizations in children. respiratory infections cluster during winter and early spring months. the leading viral agents include respiratory syncytial virus (rsv), influenza a and b (inf-a, inf-b) viruses, parainfluenza viruses (pivs), and human adenoviruses (hadvs). in addition, there is a continuously increasing list of new respiratory viruses that contribute significantly to the burden of acute respiratory infections, such as the recently identified human metapneumovirus (hmpv) and human bocavirus (hbov)  .acute rtis are classified as upper (utris) and lower rti (lrtis), according to the involved anatomic localization.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what spurred  the discovery of the new vector ae. albopictus?",
+        "answers": [
+            "the 2005-2006 epidemic of chikv in la reunion islands in the indian ocean,"
+        ],
+        "ctxs": [
+            {
+                "id": "776",
+                "title": "chikungunya: a potentially emerging epidemic?",
+                "text": "chikv is an arthropod-borne virus (arbovirus) and is transmitted to humans primarily by aedes aegypti, the infamous yellow fever propagator [4, 5] . chikv infection is marked by severe joint pain, contorting its victims into unusual postures  . the disease gets its name from the kimakonde vernacular language of tanzania and mozambique, and the word chikungunya means ''that which contorts or bends up'' and translates in swahili to ''the illness of the bended walker'' [7, 8, 9] . in africa, chikv is maintained in a sylvatic cycle among forest-dwelling aedes spp. mosquitoes, wild primates, squirrels, birds, and rodents ( figure 1 )  . in asia, the disease is vectored by ae. aegypti and ae. albopictus  . transmission in asia occurs in an urban cycle whereby the mosquito spreads the disease from an infected human to an uninfected human, following an epidemiological pattern similar to dengue fever  .the 2005-2006 epidemic of chikv in la reunion islands in the indian ocean, spurred the discovery of a new vector species, ae.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what are some mitogen activated protein kinases?",
+        "answers": [
+            "extracellular signal-regulated kinase 1 and 2 (erk1/2), p38 mapk, and c-jun n-terminal kinase (jnk)"
+        ],
+        "ctxs": [
+            {
+                "id": "634",
+                "title": "a novel anti-mycobacterial function of mitogen-activated protein kinase phosphatase-1",
+                "text": "in order to understand tb pathogenesis, signaling pathways induced by mycobacteria have long been a subject of interest. mitogen activated protein kinases (mapks) including extracellular signal-regulated kinase 1 and 2 (erk1/2), p38 mapk, and c-jun n-terminal kinase (jnk) have been implicated as important cellular signaling molecules activated by mycobacteria  . previous reports have shown that p38 mapk and erk1/2 are required in the induction of tnf-\u03b1 expression in human monocytes infected with m. tuberculosis h37rv  . we have further revealed the significant role of mapks in the signal transduction events of mycobacterial activation of primary human blood monocytes (pbmo) leading to cytokine expressions via the interaction with pkr  . however, the subsequent events as to how mapk is regulated and how such regulation affects cytokine production in response to mycobacteria remain to be elucidated.since mapks are activated by phosphorylation, dephosphorylation of mapks seems to be an efficient process to inactivate their activities.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what  was the result of the test of efficacy of piv5 in murine challenge?",
+        "answers": [
+            "mice intranasally vaccinated with a single dose of piv5-h5 vaccine had robust serum and mucosal antibody responses, and were protected from lethal challenge. notably, although cellular immune responses appeared to contribute to protection, serum antibody was sufficient for protection from challenge"
+        ],
+        "ctxs": [
+            {
+                "id": "731",
+                "title": "virus-vectored influenza virus vaccines",
+                "text": "additionally, a single intranasal immunization in a murine model of influenza infection was shown to induce neutralizing antibody responses and protect against a virus expressing homologous ha protein  . piv5 has also been explored as a vaccine against hpaiv. recombinant piv5 vaccines expressing the ha or np from vn1203 were tested for efficacy in a murine challenge model. mice intranasally vaccinated with a single dose of piv5-h5 vaccine had robust serum and mucosal antibody responses, and were protected from lethal challenge. notably, although cellular immune responses appeared to contribute to protection, serum antibody was sufficient for protection from challenge [100, 101] . intramuscular immunization with piv5-h5 was also shown to be effective at inducing neutralizing antibody responses and protecting against lethal influenza virus challenge  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what are the clinical symptoms of human adenovirus type 55 (hadv-55)?",
+        "answers": [
+            "flulike symptoms, such as fever, cough and little sputum, were commonly observed at the onset of illness"
+        ],
+        "ctxs": [
+            {
+                "id": "251",
+                "title": "emergent severe acute respiratory distress syndrome caused by adenovirus type 55 in immunocompetent adults in 2013: a prospective observational study",
+                "text": "they were included in the analysis. the other two patients had mild ards and were infected with other types of hadvs.all five patients were immunocompetent young men with a median age of 32 years (range, 28 to 40 years). all of the patients shared a b blood type and came from the same city: baoding city, hebei province, northern china. all patients had no exposure to farm animals, corn or hay. patient 3 had tuberculosis pleuritis and received antituberculosis therapy at icu admission. his blood tests, including the t-spot tuberculosis assay (oxford immunotec, marlborough, ma, usa) and antibody of mycobacterium tuberculosis, were negative.flulike symptoms, such as fever, cough and little sputum, were commonly observed at the onset of illness. all patients presented with a high fever, with a mean body temperature of 39.5\u00b0c (range, 39.0\u00b0c to 40.0\u00b0c), which persisted for 8 days (range, 6 to 11 days).",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "use of sir/seir model in statistics-based predictions of coronavirus epidemic spreading?",
+        "answers": [
+            "susceptible persons is s, infected (persons who are sick and spread the infection) -i, removed (persons who do not spread the infection anymore, this number is the sum of isolated, recovered and dead people) -r; the infection and immunization rates"
+        ],
+        "ctxs": [
+            {
+                "id": "317",
+                "title": "statistics-based predictions of coronavirus epidemic spreading in mainland china",
+                "text": "the sum of \"tested confirmed cases\" and \"clinically diagnosed cases\" wj + qj 16 0 45 1 16 14380 unknown 17 1 62 2 17 17205 unknown 18 2 121 3 18 20440 unknown 19 3 198 4 19 24324 unknown 20 4 291 5 20 28018 unknown 21 5 440 6 21 31161 unknown 22 6 571 7 22 34568 unknown 23 7 830 8 23 37198 unknown 24 8 1287 9 24 40171 unknown 25 9 1975 10 25 42638 unknown 26 10 2744 11 26 44653 unknown 27 11 4515 12 27 46472 58761 28 12 5974 13 28 48467 63851 29 13 7711 14 29 49970 66492 30 14 9692 ----31 15 11791 ----the sir model for an infectious disease can be written as follows [6, 7] :,the number of susceptible persons is s, infected (persons who are sick and spread the infection) -i, removed (persons who do not spread the infection anymore, this number is the sum of isolated, recovered and dead people) -r; the infection and immunization rates are \uf061 and \uf072 respectively.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "is koch's postulate applicable to enteric viruses?",
+        "answers": [
+            "not applicable"
+        ],
+        "ctxs": [
+            {
+                "id": "471",
+                "title": "viruses causing gastroenteritis: the known, the new and those beyond",
+                "text": "if a microbe has fulfilled these three postulates it can be stated that \"the occurrence of the microbe in the disease can no longer be accidental, but in this case no other relation between it and the disease except that the microbe is the cause of the disease can be considered\". for enteric viruses, however, these postulates are not applicable. firstly, the enteric viruses are not easily cultured    , and, secondly, prolonged sheading of viral agents and asymptomatic infection have been described  , reviewed in the literature  . although attempts have been made to adjust the koch's postulates specifically for viruses and the current methodologies deployed    , fulfilling these postulates is still not feasible on most occasions due to the lack of an efficient cell culture system, difficulties in antigen synthesis and high levels of viral genetic diversity within viral groups, reviewed in the literature  .several approaches have been made to develop a methodology that adds more significance to the discovery of a novel virus.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "why were they hospitalised?",
+        "answers": [
+            "it is likely that most were hospitalised to isolate the person rather than because of severe disease."
+        ],
+        "ctxs": [
+            {
+                "id": "974",
+                "title": "first cases of coronavirus disease 2019 (covid-19) in the who european region, 24 january to 21 february 2020",
+                "text": "the remaining 21 cases were infected in europe. of these, 14 were linked to a cluster in bavaria, germany, and seven to a cluster in haute-savoie, france [12, 13] . cases from the bavarian cluster were reported from germany and spain, whereas cases from the haute-savoie cluster were reported from france all but two cases were hospitalised (35 of 37 where information on hospitalisation was reported), although it is likely that most were hospitalised to isolate the person rather than because of severe disease. the time from onset of symptoms to hospitalisation (and isolation) ranged between 0 and 10 days with a mean of 3.7 days (reported for 29 cases). the mean number of days to hospitalisation was 2.5 days for cases imported from china, but 4.6 days for those infected in europe. this was mostly a result of delays in identifying the index cases of the two clusters in france and germany.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the status of asian chikv since its emergence?",
+        "answers": [
+            "has come a long way, with several mutations incorporated, and has continued to wreak epidemics in several regions"
+        ],
+        "ctxs": [
+            {
+                "id": "784",
+                "title": "chikungunya: a potentially emerging epidemic?",
+                "text": "estimate that the asian genotype of chikv emerged between 50 and 310 y ago, and the west and east african genotypes diverged between 100 and 840 y ago  . since then, chikv has come a long way, with several mutations incorporated, and has continued to wreak epidemics in several regions. recent activities of chikv include the indian epidemic in 2005-2006, which was followed by a sudden explosion of cases in 2007. an estimated 1.3 million people across 13 states were reported to be infected in india [12, 16] , and chikv was also widespread in malaysia, sri lanka, and indonesia  . in july-august of 2007, chikv was reported in italy, probably brought in by travelers from chikv-prone regions of india, africa, and indian ocean islands such as mauritius, madagascar, and seychelles.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is an important feature of the replicon  system?",
+        "answers": [
+            "the self-replicating nature of the rna. despite the partial viral genome, the rnas are self-replicating and can express transgenes at very high levels"
+        ],
+        "ctxs": [
+            {
+                "id": "712",
+                "title": "virus-vectored influenza virus vaccines",
+                "text": "a variety of alphaviruses have been developed as vaccine vectors, including semliki forest virus (sfv), sindbis (sin) virus, venezuelan equine encephalitis (vee) virus, as well as chimeric viruses incorporating portions of sin and vee viruses. the replication defective vaccines or replicons do not encode viral structural proteins, having these portions of the genome replaces with transgenic material.the structural proteins are provided in cell culture production systems. one important feature of the replicon systems is the self-replicating nature of the rna. despite the partial viral genome, the rnas are self-replicating and can express transgenes at very high levels  .sin, sfv, and vee have all been tested for efficacy as vaccine vectors for influenza virus     . a vee-based replicon system encoding the ha from pr8 was demonstrated to induce potent ha-specific immune response and protected from challenge in a murine model, despite repeated immunization with the vector expressing a control antigen, suggesting preexisting immunity may not be an issue for the replicon vaccine  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is a conclusion of this report?",
+        "answers": [
+            "vaccines are literally a critical component of chikv disease control and therefore research in this area is highly encouraged."
+        ],
+        "ctxs": [
+            {
+                "id": "815",
+                "title": "chikungunya: a potentially emerging epidemic?",
+                "text": "despite the low antibody response to dna vaccines, other numerous advantages have overshadowed these minor drawbacks (table 2) , the most important one being the ability to induce both humoral and cellular immune responses [51, 54] .judging by recent success, such as the immunogenic construct developed by muthumani et al., dna vaccines could play a major role in combating chikv  . vaccines are literally a critical component of chikv disease control and therefore research in this area is highly encouraged. the dramatic spread of dengue viruses (denv) throughout tropical america since 1980 via the same vectors and human hosts underscores the risk to public health in the americas. the adverse events associated with the current live vaccine are well documented  . realizing these drawbacks, earnest efforts should be taken to develop new strategies to forestall further spread and complications.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "why are some poxvirus  ideally suited as vaccine delivery vectors?",
+        "answers": [
+            "they are ideal candidate vectors due to their large dna-packing capacity and their thermal and genetic stability"
+        ],
+        "ctxs": [
+            {
+                "id": "384",
+                "title": "pre-existing immunity against vaccine vectors \u2013 friend or foe?",
+                "text": "amongst them, yfv (yf-17d strain) was the first to be licensed for use in humans, where the cdnas encoding the envelope proteins of yfv were replaced with the corresponding genes of an attenuated japanese encephalitis virus strain, sa14-14-2 (appaiahgari & vrati, 2010; rollier et al., 2011) . poxviruses are also studied extensively as candidate vectors for human use, among which attenuated derivatives of vaccinia virus [such as modified vaccinia virus ankara (mva) and new york attenuated vaccinia virus nyvac strains] are the most promising vectors (esteban, 2009; g\u00f3 mez et al., 2008; rimmelzwaan & sutter, 2009 ). they are ideal candidate vectors due to their large dna-packing capacity and their thermal and genetic stability (minke et al., 2004) . the nyvac vector has been shown to induce cd4 + t cell-dominant responses, and mva induces both cd4 + and cd8 + t cell responses (mooij et al., 2008) .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what was reported in  a rebuttal paper led by an hiv-1 virologist dr. feng gao?",
+        "answers": [
+            "they used careful bioinformatics analyses to demonstrate that the original claim of multiple hiv insertions into the sars-cov-2 is not hiv-1 specific but random"
+        ],
+        "ctxs": [
+            {
+                "id": "367",
+                "title": "no credible evidence supporting claims of the laboratory engineering of sars-cov-2",
+                "text": "in a rebuttal paper led by an hiv-1 virologist dr. feng gao, they used careful bioinformatics analyses to demonstrate that the original claim of multiple hiv insertions into the sars-cov-2 is not hiv-1 specific but random  . because of the many concerns raised by the international community, the authors who made the initial claim have already withdrawn this report.evolution is stepwise and accrues mutations gradually over time, whereas synthetic constructs would typically use a known backbone and introduce logical or targeted changes instead of the randomly occurring mutations that are present in naturally isolated viruses such as bat cov ratg13. in our view, there is currently no credible evidence to support the claim that sars-cov-2 originated from a laboratory-engineered cov. it is more likely that sars-cov-2 is a recombinant cov generated in nature between a bat cov and another coronavirus in an intermediate animal host.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what  is the relationship between the presence of virus in blood and anal swabs and disease severity?",
+        "answers": [
+            "all of the 6 patients with detectable viral rna in the blood cohort progressed to severe symptom stage, indicating a strong correlation of serum viral rna with the disease severity (p-value = 0.0001). meanwhile, 8 of the 11 patients with annal swab virus-positive was in severe clinical stage."
+        ],
+        "ctxs": [
+            {
+                "id": "857",
+                "title": "detectable 2019-ncov viral rna in blood is a strong indicator for the further clinical severity",
+                "text": "the novel coronavirus (2019-ncov) infection caused pneumonia. we retrospectively analyzed the virus presence in the pharyngeal swab, blood, and the anal swab detected by real-time pcr in the clinical lab. unexpectedly, the 2109-ncov rna was readily detected in the blood (6 of 57 patients) and the anal swabs (11 of 28 patients). importantly, all of the 6 patients with detectable viral rna in the blood cohort progressed to severe symptom stage, indicating a strong correlation of serum viral rna with the disease severity (p-value = 0.0001). meanwhile, 8 of the 11 patients with annal swab virus-positive was in severe clinical stage. however, the concentration of viral rna in the anal swab (ct value = 24 + 39) was higher than in the blood (ct value = 34 + 39) from patient 2, suggesting that the virus might replicate in the digestive tract.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what are important criteria for selecting vaccine delivery vectors?",
+        "answers": [
+            "a vaccine should be inexpensive, so that it can be administered to a large population at minimal cost"
+        ],
+        "ctxs": [
+            {
+                "id": "386",
+                "title": "pre-existing immunity against vaccine vectors \u2013 friend or foe?",
+                "text": "safety is a major concern, as even a low level of toxicity is unacceptable (of course the minor discomfort that accompanies many vaccinations is normal). secondly, a vaccine should be inexpensive, so that it can be administered to a large population at minimal cost, and this is particularly important in resource-poor countries (killeen & dirita, 2000) . similar constraints apply to veterinary vaccines, with cost often an even more important consideration. finally, long-lasting cellular and (where appropriate) humoral immune responses to the vectored antigen must be induced following administration of these vaccines, preferably with a single dose (atkins et al., 2006) .as some of the vectors in use will have been seen by the host immune system prior to vaccination, whether the presence of pre-existing immune responses is detrimental for the further development of a vector-based vaccine scheme, or can augment responses to the vectored antigen, needs to be considered in detail.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the reported value of r0 for mers?",
+        "answers": [
+            "0.8-1.3"
+        ],
+        "ctxs": [
+            {
+                "id": "884",
+                "title": "a mathematical model for simulating the phase-based transmissibility of a novel coronavirus",
+                "text": "another research found that the r 0 of sars was about 2.1 in hong kong, china, 2.7 in singapore, and 3.8 in beijing, china  . therefore, we believe that the commonly acceptable average value of the r 0 of sars might be 2.9  . the transmissibility of the middle east respiratory syndrome (mers) is much lower than sars. the reported value of the r 0 of mers was about 0.8-1.3  , with the inter-human transmissibility of the disease was about 0.6 or 0.9 in middle east countries  . however, mers had a high transmissibility in the outbreak in the republic of korea with the r 0 of 2.5-7.2 [33, 34] . therefore, the transmissibility of sars-cov-2 might be higher than mers in the middle east countries, similar to sars, but lower than mers transmitted in the republic of korea.to contain the transmission of the virus, it is important to decrease r 0 .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what genotypes are associated with the severity of hfrs?",
+        "answers": [
+            "rs12252 c allele and cc genotype"
+        ],
+        "ctxs": [
+            {
+                "id": "941",
+                "title": "interferon-induced transmembrane protein 3 inhibits hantaan virus infection, and its single nucleotide polymorphism rs12252 influences the severity of hemorrhagic fever with renal syndrome",
+                "text": "hantaan virus (htnv) causes hemorrhagic fever with renal syndrome (hfrs). previous studies have identified interferon-induced transmembrane proteins (ifitms) as an interferon-stimulated gene family. however, the role of ifitms in htnv infection is unclear. in this study, we observed that ifitm3 single nucleotide polymorphisms (snp) rs12252 c allele and cc genotype associated with the disease severity and htnv load in the plasma of hfrs patients. in vitro experiments showed that the truncated protein produced by the rs12252 c allele exhibited an impaired anti-htnv activity. we also proved that ifitm3 was able to inhibit htnv infection in both huvec and a549 cells by overexpression and rnai assays, likely via a mechanism of inhibiting virus entry demonstrated by binding and entry assay. localization of ifitm3 in late endosomes was also observed. in addition, we demonstrated that the transcription of ifitm3 is negatively regulated by an lncrna negative regulator of interferon response (nrir).",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what regulates the broad, but less specific, virus-cell interaction in a hepatitis b infection?",
+        "answers": [
+            "heparan sulfates in the membrane proteins"
+        ],
+        "ctxs": [
+            {
+                "id": "34",
+                "title": "one step closer to an experimental infection system for hepatitis b virus? --- the identification of sodium taurocholate cotransporting peptide as a viral receptor",
+                "text": "thus, the failure of hbv infection is considered largely to be due to strict restriction on the interaction between hbv virions and the cell membrane.the molecules on the cell membrane needed for hbv infection can be divided into two classes: low affinity and high affinity molecules. among others, the heparan sulfates in the membrane proteins mediate the broad, but less specific, virus-cell interaction. however, the high affinity membrane partners for hbv remain elusive (the carboxypeptidase d found for duck hepatitis b virus may be the only serious contender  ).hbv envelope protein, namely the surface antigens, plays an essential role in the infection process. both genetic and functional examination identified one domain in the nterminus of hbv pres1 (amino acids 1-47) necessary for infection. this domain has been shown to function as a direct mediator for hbv by binding presumably cellular corresponding receptor(s)  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what antiviral treatments are used for hepatitis c infection?",
+        "answers": [
+            "pegylated alpha-interferon and ribavirin"
+        ],
+        "ctxs": [
+            {
+                "id": "142",
+                "title": "a focus reduction neutralization assay for hepatitis c virus neutralizing antibodies",
+                "text": "conclusion: this study presents a simple, specific and reproducible cell culture-based assay for determination of hcv-neutralizing antibodies in human sera. the assay should be an important tool for gauging the relationship between the neutralizing antibodies response and viral load kinetics in acutely or chronically infected patients and for investigating the possible eradication or prevention of hcv infection by neutralizing antibodies.text: hepatitis c virus (hcv, a member of the flaviviridae family) is an enveloped, positive-stranded rna virus that preferentially replicates in hepatocytes. at least 170 million people worldwide are persistently infected with hepatitis c virus. chronic hcv infection is associated with a significant risk of progression to cirrhosis and hepatocellular carcinoma  . antiviral therapy with pegylated alpha-interferon and ribavirin (the current best therapeutic regimen) is only successful in about 50% of all treated patients.better knowledge of the viral and host factors that determine hcv clearance or persistence during the acute stage of infection is needed in order to improve antiviral therapy and to develop efficient vaccines.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what does the study include?",
+        "answers": [
+            "a comparison between cases detected among travellers from china and cases whose infection was acquired due to subsequent local transmission."
+        ],
+        "ctxs": [
+            {
+                "id": "966",
+                "title": "first cases of coronavirus disease 2019 (covid-19) in the who european region, 24 january to 21 february 2020",
+                "text": "the study includes a comparison between cases detected among travellers from china and cases whose infection was acquired due to subsequent local transmission.on 27 january 2020, the european centre for disease prevention and control (ecdc) and the who regional office for europe asked countries to complete a who standard covid-19 case report form for all confirmed and probable cases according to who criteria    . the overall aim of surveillance at this time was to support the global strategy of containment of covid-19 with rapid identification and follow-up of cases linked to affected countries in order to minimise onward transmission. the surveillance objectives were to: describe the key epidemiological and clinical characteristics of covid-19 cases detected in europe; inform country preparedness; and improve further case detection and management. data collected included demographics, history of recent travel to affected areas, close contact with a probable or confirmed covid-19 case, underlying conditions, signs and symptoms of disease at onset, type of specimens from which the virus was detected, and clinical outcome.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what was the duration of hospitalisation reported for 16 cases ?",
+        "answers": [
+            "a median of 13 days (range: 8-23 days)"
+        ],
+        "ctxs": [
+            {
+                "id": "988",
+                "title": "first cases of coronavirus disease 2019 (covid-19) in the who european region, 24 january to 21 february 2020",
+                "text": "no data on clinical signs e.g. dyspnea etc. were reported for any of the 38 cases.all hospitalised cases had a benign clinical evolution except four, two reported in italy and two reported in france, all of whom developed viral pneumonia. all three cases who were aged 65 years or over were admitted to intensive care and required respiratory support and one french case died. the case who died was hospitalised for 21 days and required intensive care and mechanical ventilation for 19 days. the duration of hospitalisation was reported for 16 cases with a median of 13 days (range: 8-23 days). as at 21 february 2020, four cases were still hospitalised.all cases were confirmed according to specific assays targeting at least two separate genes (envelope (e) gene as a screening test and rna-dependent rna polymerase (rdrp) gene or nucleoprotein (n) gene for confirmation) [8, 17] .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "when was the second covid19 case reported in the us?",
+        "answers": [
+            "january 24, 2020"
+        ],
+        "ctxs": [
+            {
+                "id": "1074",
+                "title": "2019-ncov: the identify-isolate-inform (3i) tool applied to a novel emerging coronavirus",
+                "text": "on january 15, 2020, the centers for disease control and prevention (cdc) confirmed the first known imported case of 2019-ncov in the us state of washington. the patient had recently returned from wuhan city, where he likely contracted the disease. chicago health authorities reported a second us case on january 24, 2020. this was quickly followed by additional imported cases reported in orange and los angeles counties, california on january 26, 2020. additional suspected cases continue to be evaluated. on january 30, 2020, the cdc reported the first local transmission in the us between members in a household. on the same day, the world health organization declared 2019-ncov to be a public health emergency of international concern (pheic). 6 on january 31, 2020, the us department of health and human services declared coronavirus a public health emergency. 7 healthy individuals and those with mild illness may be asymptomatic, while others may have more pronounced symptoms of fever or lower respiratory illness.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the goal of vaccine?",
+        "answers": [
+            "protect against infection and disease, while inducing population-based immunity to reduce or eliminate virus transmission within the population"
+        ],
+        "ctxs": [
+            {
+                "id": "742",
+                "title": "virus-vectored influenza virus vaccines",
+                "text": "the majority of these broadly cross-reactive antibodies recognize regions on the stalk of the ha protein  . the ha stalk is generally less immunogenic compared to the globular head of the ha protein so most approaches have utilized -headless\u2016 ha proteins as immunogens. ha stalk vaccines have been designed using dna and virus-like particles  and mva  ; however, these approaches are amenable to expression in any of the viruses vectors described here.the goal of any vaccine is to protect against infection and disease, while inducing population-based immunity to reduce or eliminate virus transmission within the population. it is clear that currently licensed influenza vaccines have not fully met these goals, nor those specific to inducing long-term, robust immunity. there are a number of vaccine-related issues that must be addressed before population-based influenza vaccination strategies are optimized.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what do  evolutionary analyses show?",
+        "answers": [
+            "that bats and rodents are the gene sources of most \u03b1covs and \u03b2covs, while avian species are the gene sources of most \u03b4covs and \u03b3covs."
+        ],
+        "ctxs": [
+            {
+                "id": "1030",
+                "title": "genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting wuhan",
+                "text": "learning from the roles of civet in sars and camel in mers, hunting for the animal source of 2019-ncov and its more ancestral virus would be important for understanding the origin and evolution of this novel lineage b betacoronavirus. these findings provide the basis for starting further studies on the pathogenesis, and optimizing the design of diagnostic, antiviral and vaccination strategies for this emerging infection.text: coronaviruses (covs) are enveloped, positive-sense, single-stranded rna viruses that belong to the subfamily coronavirinae, family coronavirdiae, order nidovirales. there are four genera of covs, namely, alphacoronavirus (\u03b1cov), betacoronavirus (\u03b2cov), deltacoronavirus (\u03b4cov), and gammacoronavirus (\u03b3cov)  . evolutionary analyses have shown that bats and rodents are the gene sources of most \u03b1covs and \u03b2covs, while avian species are the gene sources of most \u03b4covs and \u03b3covs. covs have repeatedly crossed species barriers and some have emerged as important human pathogens.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how has the mortality rate due to influenza declined in usa over past decades?",
+        "answers": [
+            "in the united states of america, the influenza classed mortality rate declined from 10.2/100,000 in the 1940s to 0.56/100,000 in the 1990s; and the classed mortality rates of 1957-1958 and 1968-1969 influenza pandemics were not remarkably different from the non-pandemic seasons"
+        ],
+        "ctxs": [
+            {
+                "id": "1114",
+                "title": "it is unlikely that influenza viruses will cause a pandemic again like what happened in 1918 and 1919",
+                "text": "actually, in the united states of america, the influenza classed mortality rate declined from 10.2/100,000 in the 1940s to 0.56/100,000 in the 1990s; and the classed mortality rates of 1957-1958 and 1968-1969 influenza pandemics were not remarkably different from the non-pandemic seasons (10) .because of the above reasons, we can optimistically assume that even the same strain of influenza virus, which caused pandemic in 1918 and 1919, would not be able to kill millions of people and cause a pandemic comparable to the 1918-1919 pandemic again in the future.additionally, a significant number of viruses can cause influenza-like syndromes, such as rhinovirus, parainfluenza virus, adenovirus, coronavirus, respiratory syncytial virus, coxsackie b virus, echovirus, and metapneumovirus (11, 12) . some of the above-mentioned viruses like adenovirus and mutated coronavirus could cause problems that are comparable to influenza viruses (13, 14) .the world health organization (who) mistakenly raised the level of influenza pandemic alert from phase 5 to the highest phase 6 on june 11, 2009 (15) .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what virus has the closest genetic identity with the saibk gene?",
+        "answers": [
+            "chinese ibv strain sc021202"
+        ],
+        "ctxs": [
+            {
+                "id": "82",
+                "title": "complete genome sequence of a nephropathogenic infectious bronchitis virus strain isolated in china",
+                "text": "other parts were amplified by 19 primers with overlap between each fragment and were cloned into the pmd19-t vector (takara, japan). all fragments were sequenced three times by sangon biotech (shanghai, china). the sequenced fragments were assembled using the seqman software program (dnastar, inc.). sequence alignment was conducted and a phylogenetic tree was constructed using the software program mega5 (7). recombination analysis was performed using the rdp 4.14 (8) and simplot 3.5.1 (9) software programs.the complete genome of the saibk strain is 27,534 nucleotides (nt) in length, including the poly(a) tail. it has a classical ibv genome organization with 10 open reading frames (orfs):the genome sequence of saibk shows the highest identity (94.3%) to the chinese ibv strain sc021202 (genbank accession no. eu714029) and the lowest identity (85.8%) to two chinese ibv strains, bj (genbank accession no. ay319651) and dy07 (genbank accession no. hm245923).",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how many severe cases of influenza-related illnesses are reported per year?",
+        "answers": [
+            "between 3-5 million"
+        ],
+        "ctxs": [
+            {
+                "id": "431",
+                "title": "deep sequencing of primary human lung epithelial cells challenged with h5n1 influenza virus reveals a proviral role for ceacam1",
+                "text": "between 3-5 million cases of severe influenza-related illness and over 250 000 deaths are reported every year. in addition to constant seasonal outbreaks, highly pathogenic avian influenza (hpai) strains, such as h5n1, remain an ongoing pandemic threat with recent who figures showing 454 confirmed laboratory infections and a mortality rate of 53%. it is important to note that humans have very little pre-existing immunity towards avian influenza virus strains. moreover, there is no commercially available human h5n1 vaccine. given the potential for h5n1 viruses to trigger a pandemic 1,2 , there is an urgent need to develop novel therapeutic interventions to combat known deficiencies in our ability to control outbreaks. current seasonal influenza virus prophylactic and therapeutic strategies involve the use of vaccination and antivirals. vaccine efficacy is highly variable as evidenced by a particularly severe 2017/18 epidemic, and frequent re-formulation of the vaccine is required to combat ongoing mutations in the influenza virus genome.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what characteristics are determined by the display  mode?",
+        "answers": [
+            "maximum tolerated size of the fused polypeptide, its copy number on the phage, and potentially, the structure of the displayed polypeptide"
+        ],
+        "ctxs": [
+            {
+                "id": "484",
+                "title": "beyond phage display: non-traditional applications of the filamentous bacteriophage as a vaccine carrier, therapeutic biologic, and bioconjugation scaffold",
+                "text": "the display mode determines the maximum tolerated size of the fused polypeptide, its copy number on the phage, and potentially, the structure of the displayed polypeptide. display may be achieved by fusing dna encoding a polypeptide of interest directly to the gene encoding a coat protein within the phage genome (type 8 display on pviii, type 3 display on piii, etc. ), resulting in fully recombinant phage. much more commonly, however, only one copy of the coat protein is modified in the presence of a second, wild-type copy (e.g., type 88 display if both recombinant and wild-type pviii genes are on the phage genome, type 8+8 display if the parmley and smith (1988), mcconnell et al. (1994) , rondot et al. (2001) hybrid (type 33 and 3+3 systems) type 3+3 system <1 2 smith and scott (1993) , smith and petrenko (1997) pvi hybrid (type 6+6 system) yes <1 2 >25 kda hufton et al.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "when was the first case of covid19 confirmed in the usa?",
+        "answers": [
+            "january 15, 2020"
+        ],
+        "ctxs": [
+            {
+                "id": "1073",
+                "title": "2019-ncov: the identify-isolate-inform (3i) tool applied to a novel emerging coronavirus",
+                "text": "on january 15, 2020, the centers for disease control and prevention (cdc) confirmed the first known imported case of 2019-ncov in the us state of washington. the patient had recently returned from wuhan city, where he likely contracted the disease. chicago health authorities reported a second us case on january 24, 2020. this was quickly followed by additional imported cases reported in orange and los angeles counties, california on january 26, 2020. additional suspected cases continue to be evaluated. on january 30, 2020, the cdc reported the first local transmission in the us between members in a household. on the same day, the world health organization declared 2019-ncov to be a public health emergency of international concern (pheic). 6 on january 31, 2020, the us department of health and human services declared coronavirus a public health emergency. 7 healthy individuals and those with mild illness may be asymptomatic, while others may have more pronounced symptoms of fever or lower respiratory illness.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what could account for the dissemination of the 2019-ncov virus across the whole body?",
+        "answers": [
+            "we propose that rampant coronavirus replication in pulmonary alveolus results in the breakdown of the alveolar vessel and the subsequent virus leakage into the blood flow, through which the virus is disseminated across the whole body. then the virus succeeds in establishing reinfection in the digestive tract by using the highly expressed ace2 receptor, which exacerbated the disease vice versa"
+        ],
+        "ctxs": [
+            {
+                "id": "862",
+                "title": "detectable 2019-ncov viral rna in blood is a strong indicator for the further clinical severity",
+                "text": "we propose that rampant coronavirus replication in pulmonary alveolus results in the breakdown of the alveolar vessel and the subsequent virus leakage into the blood flow, through which the virus is disseminated across the whole body. then the virus succeeds in establishing reinfection in the digestive tract by using the highly expressed ace2 receptor, which exacerbated the disease vice versa. bat originated coronavirus was found to replicate in the swine digestive tract recently, also suggesting the potential replication possibility in the human digestive tract  . nevertheless, confirmation of virus transmission through the digestive tract warrants further virus isolation from the anal swab in high safety level lab.unfortunately, in our study, we did not collect stool samples from patients and did not pursue viral rna in the stool. but we believe the existence of virus rna in the stool samples from these patients because that a large amount of viral rna was detected in anal swabs and that viral rna had also been detected in a case reported from the united states  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what was the conclusion of the study ?",
+        "answers": [
+            "in both bat species, the strongest antiviral responses were countered by the virus spreading more quickly from cell to cell. this suggests that bat immune defenses may drive the evolution of faster transmitting viruses, and while bats are well protected from the harmful effects of their own prolific viruses, other creatures like humans are not."
+        ],
+        "ctxs": [
+            {
+                "id": "833",
+                "title": "accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence",
+                "text": "the experiments made use of cells from one bat species -the black flying fox -in which the interferon pathway is always on, and another -the egyptian fruit bat -in which this pathway is only activated during an infection. the bat cells were infected with three different viruses, and then brook et al. observed how the interferon pathway helped keep the infections in check, before creating a computer model of this response. the experiments and model helped reveal that the bats' defenses may have a potential downside for other animals, including humans. in both bat species, the strongest antiviral responses were countered by the virus spreading more quickly from cell to cell. this suggests that bat immune defenses may drive the evolution of faster transmitting viruses, and while bats are well protected from the harmful effects of their own prolific viruses, other creatures like humans are not.the findings may help to explain why bats are often the source for viruses that are deadly in humans.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what do mild clinical presentations of 2019-ncov indicate?",
+        "answers": [
+            "that there could be many more mild infections than severe infections"
+        ],
+        "ctxs": [
+            {
+                "id": "932",
+                "title": "epidemiological research priorities for public health control of the ongoing global novel coronavirus (2019-ncov) outbreak",
+                "text": "it is well established that some infections can be severe, particularly in older adults with underlying medical conditions [15, 16] , but based on the generally mild clinical presentation of 2019-ncov cases detected outside china, it appears that there could be many more mild infections than severe infections. determining the spectrum of clinical manifestations of 2019-ncov infections is perhaps the most urgent research priority, because it determines the strength of public health response required. if the seriousness of infection is similar to the 1918/19 spanish influenza, and therefore at the upper end of severity scales in influenza pandemic plans, the same responses would be warranted for 2019-ncov as for the most severe influenza pandemics. if, however, the seriousness of infection is similar to seasonal influenza, especially during milder seasons, mitigation measures could be tuned accordingly.beyond a robust assessment of overall severity, it is also important to determine high risk groups.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what  would a shorter mean serial interval mean?",
+        "answers": [
+            "slightly lower basic reproductive number."
+        ],
+        "ctxs": [
+            {
+                "id": "921",
+                "title": "epidemiological research priorities for public health control of the ongoing global novel coronavirus (2019-ncov) outbreak",
+                "text": "infections with 2019-ncov can spread from person to person, and in the earliest phase of the outbreak the basic reproductive number was estimated to be around 2.2, assuming a mean serial interval of 7.5 days . the serial interval was not precisely estimated, and a potentially shorter mean serial interval would have corresponded to a slightly lower basic reproductive number. control measures and changes in population behaviour later in january should have reduced the effective reproductive number. however, it is too early to estimate whether the effective reproductive number has been reduced to below the critical threshold of 1 because cases currently being detected and reported would have mostly been infected in mid- to late-january.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how was the italian isolation found to have evolved from?",
+        "answers": [
+            "from the kerala isolate, which was associated with a a226v shift in e1 gene that represents a successful evolutionary adaptation in the mosquito vector similar to the ones observed in reunion island ["
+        ],
+        "ctxs": [
+            {
+                "id": "785",
+                "title": "chikungunya: a potentially emerging epidemic?",
+                "text": "few of the italian isolates were found to have evolved from the kerala isolate, which was associated with a a226v shift in e1 gene that represents a successful evolutionary adaptation in the mosquito vector similar to the ones observed in reunion island [2, 18, 19] .in recent times, with an increase in global travel, the risk for spreading chikv to non-endemic regions has heightened  . several travelers have brought chikv home with them after visiting areas with actively infected populations [12, 20] . such cases have been documented in european countries, australia, asia, and the united states [8, 21] . the united states has already reported at least twelve cases of travel-associated chikv, while france has reported 850 cases, and the united kingdom 93 [8, 14] . beyond this, chikv-infected travelers have also been diagnosed in australia, belgium, canada, czech republic, french guiana, germany, hong kong, italy, japan, kenya, malaysia, martinique, norway, switzerland, and sri lanka  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the advantage of oral capsule and intranasal deliveries?",
+        "answers": [
+            "induce robust mucosal immune responses and may bypass preexisting vector immunity"
+        ],
+        "ctxs": [
+            {
+                "id": "687",
+                "title": "virus-vectored influenza virus vaccines",
+                "text": "importantly, the latter two delivery methods induce robust mucosal immune responses and may bypass preexisting vector immunity  . even replication-defective adenovirus vectors are naturally immunostimulatory and effective adjuvants to the recombinant antigen being delivered. adenovirus has been extensively studied as a vaccine vector for human disease. the first report using adenovirus as a vaccine vector for influenza demonstrated immunogenicity of recombinant adenovirus 5 (rad5) expressing the ha of a swine influenza virus, a/swine/iowa/1999 (h3n2). intramuscular immunization of mice with this construct induced robust neutralizing antibody responses and protected mice from challenge with a heterologous virus, a/hong kong/1/1968 (h3n2)  . replication defective rad5 vaccines expressing influenza ha have also been tested in humans. a rad5-ha expressing the ha from a/puerto rico/8/1934 (h1n1; pr8) was delivered to humans epicutaneously or intranasally and assayed for safety and immunogenicity. the vaccine was well tolerated and induced seroconversion with the intranasal administration had a higher conversion rate and higher geometric meant hi titers  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the most common species of human coronavirus among adults?\n",
+        "answers": [
+            "hcov-oc43"
+        ],
+        "ctxs": [
+            {
+                "id": "27",
+                "title": "species\u2010specific clinical characteristics of human coronavirus infection among otherwise healthy adolescents and adults",
+                "text": "human coronavirus (hcov) is a known cause of influenza\u2010like illness (ili). in a multisite, observational, longitudinal study of ili among otherwise healthy adolescents and adults, 12% of subjects were pcr\u2010positive for hcov. the distribution of species was as follows: hcov\u2010oc43 (34%), hcov\u2010229e (28%), hcov\u2010nl63 (22%), and hcov\u2010hku1 (16%). we did not observe species\u2010specific differences in the clinical characteristics of hcov infection, with the exception of hcov\u2010hku1, for which the severity of gastrointestinal symptoms trended higher on the fourth day of illness.text: clinical manifestations of human coronavirus (hcov) infection range from a mild, self-limiting illness of the upper respiratory tract to an acute respiratory distress syndrome with a high mortality rate.highly virulent species of hcov were responsible for outbreaks of severe acute respiratory syndrome (sars) and middle east respiratory syndrome (mers); case-fatality rates ranged from 14% to 45%. by contrast, other hcov species (hcov-hku1, hcov-oc43, hcov-nl63, and hcov-229e) are much more prevalent, much less severe, and common causes of influenza-like illness (ili).",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "in what direction does the vesicular stomatitis virus spread through the nervous system?",
+        "answers": [
+            "anterograde"
+        ],
+        "ctxs": [
+            {
+                "id": "319",
+                "title": "vesicular stomatitis virus with the rabies virus glycoprotein directs retrograde transsynaptic transport among neurons in vivo",
+                "text": "defining the connections among neurons is critical to our understanding of the structure and function of the nervous system. recombinant viruses engineered to transmit across synapses provide a powerful approach for the dissection of neuronal circuitry in vivo. we recently demonstrated that recombinant vesicular stomatitis virus (vsv) can be endowed with anterograde or retrograde transsynaptic tracing ability by providing the virus with different glycoproteins. here we extend the characterization of the transmission and gene expression of recombinant vsv (rvsv) with the rabies virus glycoprotein (rabv-g), and provide examples of its activity relative to the anterograde transsynaptic tracer form of rvsv. rvsv with rabv-g was found to drive strong expression of transgenes and to spread rapidly from neuron to neuron in only a retrograde manner. depending upon how the rabv-g was delivered, vsv served as a polysynaptic or monosynaptic tracer, or was able to define projections through axonal uptake and retrograde transport.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what are the structural regions of the enterovirus polyprotein in this study?",
+        "answers": [
+            "one structural (p1-capsid) and two nonstructural (p2 and p3) regions"
+        ],
+        "ctxs": [
+            {
+                "id": "224",
+                "title": "nearly complete genome sequence of an echovirus 30 strain from a cluster of aseptic meningitis cases in california, september 2017",
+                "text": "the enterovirus polyprotein can be divided into one structural (p1-capsid) and two nonstructural (p2 and p3) regions. the polyprotein regions of the e-30 genome reported here share 96%, 88%, and 84% ni (p1, p2, and p3, respectively) with other e-30 sequences in genbank.data availability. the e-30 sequence of usa/2017/ca-rgds-1005 has been deposited in genbank under the accession number mk238483. the quality-filtered fastq reads have been deposited in the sequence read archive with the run accession number srr10082176.the contributions of the california department of public health viral and rickettsial disease laboratory were supported in part by the epidemiology and laboratory capacity for infectious diseases cooperative agreement number 6 nu50ck000410 from the u.s. centers for disease control and prevention. this work was partly funded by federal appropriations to the centers for disease control and prevention, through the advanced molecular detection initiative line item.the findings and conclusions in this report are those of the author(s) and do not necessarily represent the official position of the centers for disease control and prevention.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "does rna replication need polymerase enzymes?",
+        "answers": [
+            "replication of rna molecules can be performed chemically from rna without polymerase enzymes."
+        ],
+        "ctxs": [
+            {
+                "id": "757",
+                "title": "viruses and evolution \u2013 viruses first? a personal perspective",
+                "text": "thus, small peptides were available by ribozyme activity. consequently, an rna modification has been proposed as peptide nucleic acid (pna), with more stable peptide bonds instead of phosphodiester bonds (zhang and cech, 1997; joyce, 2002) . replication of rna molecules can be performed chemically from rna without polymerase enzymes. in addition, deoxyribozymes can form from ribonucleotides (wilson and szostak, 1999) . thus, dna can arise from rna chemically, without the key protein enzyme, the reverse transcriptase.an entire living world is possible from non-coding rna (ncrna) before evolution of the genetic code and protein enzymes. ribozymes naturally consist of circular single-stranded rnas (orgel, 2004) . they lack the genetic triplet code and do not encode proteins. instead, they exhibit structural information by hairpin-loops that form hydrogen bonds between incomplete double strands, and loops free to interact with other molecules. they represent a quasispecies in which many species of rna may form, such as ribozymes, trna-like molecules, and other ncrnas.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what activates the upr pathway in the cell?",
+        "answers": [
+            "protein misfolding"
+        ],
+        "ctxs": [
+            {
+                "id": "524",
+                "title": "venezuelan equine encephalitis virus induces apoptosis through the unfolded protein response activation of egr1",
+                "text": "egr1 and the upr pathway were selected for further analysis, as their role in veev infection has not been elucidated.the rna-seq and pathway analysis data indicated that upr and stress response genes were induced after veev infection. during an infection, host cells respond to cellular stresses resulting from increased viral protein translation and secretion by triggering the onset of the upr pathway. the upr pathway is an adaptive cellular response activated by endoplasmic reticulum (er) stress due to protein misfolding. in order to regulate cellular homeostasis during protein folding and secretion, the upr pathway has developed three classes of sensors to ensure proper cellular regulation: inositolrequiring enzyme 1 (ire1), protein kinase rna-like er kinase (perk), and activating transcription factor 6 (atf6) (33, 34) . during veev infection, the perk arm of the upr appeared to be altered, as two critical regulators of this pathway were differentially expressed: atf4 and chop (ddit3) (35) .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "which  four studies were included?",
+        "answers": [
+            "phase i clinical trials on sars or mers vaccines"
+        ],
+        "ctxs": [
+            {
+                "id": "583",
+                "title": "potential rapid diagnostics, vaccine and therapeutics for 2019 novel coronavirus (2019-ncov): a systematic review",
+                "text": "most studies on sars and mers vaccines were excluded as they were performed in cell or animal models ( figure 1 ). the four studies included in this review were phase i clinical trials on sars or mers vaccines (table 4 )     . there were no studies of any population type (cell, animal, human) on the 2019-ncov at the point of screening. the published clinical trials were mostly done in united states except for one on the sars vaccine done in china  . all vaccine candidates for sars and mers were reported to be safe, well-tolerated and able to trigger the relevant and appropriate immune responses in the participants. in addition, we highlight six ongoing phase i clinical trials identified in the clinicaltrials.gov register ( [48, 49] ); table s4 )    . these trials are all testing the safety and immunogenicity of their respective mers-cov vaccine candidates but were excluded as there are no results published yet.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is koch's first postulate?",
+        "answers": [
+            "the microbe occurs in every case of the disease in question and under circumstances which can account for the pathological changes and clinical course of the disease"
+        ],
+        "ctxs": [
+            {
+                "id": "467",
+                "title": "viruses causing gastroenteritis: the known, the new and those beyond",
+                "text": "therefore, once a novel virus has been identified in human stool samples it is does not indicate that this virus is replicating in human intestinal cells.koch recognized as early as 1891 that associating the presence of a certain agent with a certain disease is complex, and he therefore postulated guidelines that should be followed before an agent can be classified as a pathogen  . his postulates can be summarized in three points: (1) the microbe occurs in every case of the disease in question and under circumstances which can account for the pathological changes and clinical course of the disease; (2) the microbe occurs in no other disease as a fortuitous and nonpathogenic parasite; and (3), after being fully isolated from the body and repeatedly grown in pure culture, the microbe can induce the disease anew.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is a gold standard for correlation with immunity to influenza?",
+        "answers": [
+            "strain-specific hi titer"
+        ],
+        "ctxs": [
+            {
+                "id": "655",
+                "title": "virus-vectored influenza virus vaccines",
+                "text": "tiv efficacy is measured by induction of humoral responses to the hemagglutinin (ha) protein, the major surface and attachment glycoprotein on influenza. serum antibody responses to ha are measured by the hemagglutination-inhibition (hi) assay, and the strain-specific hi titer is considered the gold-standard correlate of immunity to influenza where a four-fold increase in titer post-vaccination, or a hi titer of \u22651:40 is considered protective [4, 14] . protection against clinical disease is mainly conferred by serum antibodies; however, mucosal iga antibodies also may contribute to resistance against infection. split virus inactivated vaccines can induce neuraminidase (na)-specific antibody responses    , and anti-na antibodies have been associated with protection from infection in humans      . currently, na-specific antibody responses are not considered a correlate of protection  . laiv is administered as a nasal spray and contains the same three or four influenza virus strains as inactivated vaccines but on an attenuated vaccine backbone  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how can hospital based surveillance help?",
+        "answers": [
+            "help estimate the incidence of severe cases and identify risk factors for severity and death"
+        ],
+        "ctxs": [
+            {
+                "id": "1000",
+                "title": "first cases of coronavirus disease 2019 (covid-19) in the who european region, 24 january to 21 february 2020",
+                "text": "understanding the infection-severity is critical to help plan for the impact on the healthcare system and the wider population. serological studies are vital to understand the proportion of cases who are asymptomatic. hospital-based surveillance could help estimate the incidence of severe cases and identify risk factors for severity and death. established hospital surveillance systems that are in place for influenza and other diseases in europe may be expanded for this purpose. in addition, a number of countries in europe are adapting and, in some cases, already using existing sentinel primary care based surveillance systems for influenza to detect community transmission of sars-cov-2. this approach will be used globally to help identify evidence of widespread community transmission and, should the virus spread and containment no longer be deemed feasible, to monitor intensity of disease transmission, trends and its geographical spread.additional research is needed to complement surveillance data to build knowledge on the infectious period, modes of transmission, basic and effective reproduction numbers, and effectiveness of prevention and case management options also in settings outside of china.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how many children were infected by hiv-1 in 2008-2009, worldwide?",
+        "answers": [
+            "more than 400,000 children were infected worldwide, mostly through mtct and 90% of them lived in sub-saharan africa."
+        ],
+        "ctxs": [
+            {
+                "id": "2",
+                "title": "functional genetic variants in dc-signr are associated with mother-to-child transmission of hiv-1",
+                "text": "the implicated h1 and h3 haplotypes share two single nucleotide polymorphisms (snps) in promoter region (p-198a) and intron 2 (int2-180a) that were associated with increased risk of both iu (p = 0.045 and p = 0.003, respectively) and ip (p = 0.025, for int2-180a) hiv-1 infection. the promoter variant reduced transcriptional activity in vitro. in homozygous h1 infants bearing both the p-198a and int2-180a mutations, we observed a 4-fold decrease in the level of placental dc-signr transcripts, disproportionately affecting the expression of membrane-bound isoforms compared to infant noncarriers (p = 0.011). conclusion: these results suggest that dc-signr plays a crucial role in mtct of hiv-1 and that impaired placental dc-signr expression increases risk of transmission.text: without specific interventions, the rate of hiv-1 mother-tochild transmission (mtct) is approximately 15-45%  . unaids estimates that last year alone, more than 400,000 children were infected worldwide, mostly through mtct and 90% of them lived in sub-saharan africa.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what type of ion channels are formed by the sars-cov e protein?",
+        "answers": [
+            "ca 2+ -permeable"
+        ],
+        "ctxs": [
+            {
+                "id": "626",
+                "title": "severe acute respiratory syndrome coronavirus viroporin 3a activates the nlrp3 inflammasome",
+                "text": "a recent study shows that the sars-cov e protein, which comprise only 76 amino acids, forms ca 2+ -permeable ion channels and activates the nlrp3 inflammasome (nieto-torres et al., 2015) . although the e and 3a proteins of sars-cov, which comprise 274 amino acids and contain three transmembrane domains (zeng et al., 2004; lu et al., 2006) , are thought to act as na + /k + and k + channels, respectively (wilson et al., 2004; lu et al., 2006; torres et al., 2007; parthasarathy et al., 2008; pervushin et al., 2009; wang et al., 2011) , the role of the 3a protein in activating the nlrp3 inflammasome remains unknown. here, we examined the role of the 3a protein in activating the nlrp3 inflammasome.six-week-old female c57bl/6 mice were purchased from the jackson laboratory. all animal experiments were approved by the animal committees of the institute of medical science (the university of tokyo).bone marrow-derived macrophages (bmms) were prepared as described previously (ichinohe et al., 2009) .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what was the reservoir for sars-cov and mers-cov?",
+        "answers": [
+            "animal reservoirs"
+        ],
+        "ctxs": [
+            {
+                "id": "535",
+                "title": "host resilience to emerging coronaviruses",
+                "text": "severe acute respiratory syndrome coronavirus (sars-cov) was first identified in 2003     . while there was initially great concern about sars-cov, once no new cases emerged, funding and research decreased. however, a decade later middle east respiratory syndrome coronavirus (mers-cov), also known as hcov-emc, emerged initially in saudi arabia [3, 10] . sars-cov infected about 8000 people, and resulted in the deaths of approximately 10% of those infected  . while mers-cov is not as widespread as sars-cov, it appears to have an even higher mortality rate, with 35-50% of diagnosed infections resulting in death [3,   . these deadly betacoronavirus viruses existed in animal reservoirs   9,   . recently, other covs have been detected in animal populations raising the possibility that we will see a repeat of these types of outbreaks in the near future [11,      . both these zoonotic viruses cause a much more severe disease than what is typically seen for covs, making them a global health concern.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what are some examples of autonomous bacteria that lost their independence and became intracellular  parasites or endosymbionts?",
+        "answers": [
+            "mitochondria, chloroplasts, rickettsia"
+        ],
+        "ctxs": [
+            {
+                "id": "754",
+                "title": "viruses and evolution \u2013 viruses first? a personal perspective",
+                "text": "viruses today are obligatory parasites depending on host cells. examples of how an independent lifestyle might have been lost include mitochondria, chloroplasts, rickettsia and others, which used to be autonomous bacteria and became intracellular parasites or endosymbionts, thereby losing most of their genes. even in vitro the loss of genes can be recapitulated all the way from coding to non-coding rna. furthermore, the giant viruses may indicate that there is no sharp border between living and non-living entities but an evolutionary continuum. here, it is discussed how viruses can lose and gain genes, and that they are essential drivers of evolution. this discussion may stimulate the thinking about viruses as early possible forms of life. apart from our view \u201cviruses first\u201d, there are others such as \u201cproteins first\u201d and \u201cmetabolism first.\u201dtext: mycoplasma mycoides by systematic deletion of individual genes resulted in a synthetic minimal genome of 473 genes (hutchison et al., 2016) .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "why is ad5 is the most studied serotype? ",
+        "answers": [
+            "having been tested for gene delivery and anti-cancer agents, as well as for infectious disease vaccines"
+        ],
+        "ctxs": [
+            {
+                "id": "681",
+                "title": "virus-vectored influenza virus vaccines",
+                "text": "adenovirus 5 (ad5) is the most-studied serotype, having been tested for gene delivery and anti-cancer agents, as well as for infectious disease vaccines.adenovirus vectors are attractive as vaccine vectors because their genome is very stable and there are a variety of recombinant systems available which can accommodate up to 10 kb of recombinant genetic material  . adenovirus is a non-enveloped virus which is relatively stable and can be formulated for long-term storage at 4 \u00b0c, or even storage up to six months at room temperature  . adenovirus vaccines can be grown to high titers, exceeding 10 1\u00b0 plaque forming units (pfu) per ml when cultured on 293 or per.c6 cells  , and the virus can be purified by simple methods  . adenovirus vaccines can also be delivered via multiple routes, including intramuscular injection, subcutaneous injection, intradermal injection, oral delivery using a protective capsule, and by intranasal delivery.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how can the study of b-cells help in the prevention and treatment of autoimmune diseases?",
+        "answers": [
+            "the study of autoantigen-specific b cells and a detailed analysis of b cell subsets with pathogenic potential in humans could lead to a better understanding of how to prevent and treat autoimmune diseases."
+        ],
+        "ctxs": [
+            {
+                "id": "97",
+                "title": "techniques to study antigen-specific b cell responses",
+                "text": "the study of autoantigen-specific b cells and a detailed analysis of b cell subsets with pathogenic potential in humans could lead to a better understanding of how to prevent and treat autoimmune diseases.although the term antigen-specific b cell is used throughout this mini-review to denote the analysis of b cells based on binding between the b cell receptor (bcr) and a specific antigen used as bait, it is important to keep in mind that bcrs within the polyclonal b cell repertoire exhibit a spectrum of polyreactivity. on one end of the spectrum, a highly polyreactive bcr is able to bind multiple structurally unrelated antigens with physiologically relevant affinities. the frequency of polyreactivity in the normal adult human b cell repertoire has been estimated to be 4% of na\u00efve b cells, 23% of igg+ memory b cells, and 26% of intestinal iga+ and igg+ plasmablasts (27-29).",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what clinical condition is caused by hantaan virus?",
+        "answers": [
+            "hemorrhagic fever with renal syndrome"
+        ],
+        "ctxs": [
+            {
+                "id": "936",
+                "title": "interferon-induced transmembrane protein 3 inhibits hantaan virus infection, and its single nucleotide polymorphism rs12252 influences the severity of hemorrhagic fever with renal syndrome",
+                "text": "hantaan virus (htnv) causes hemorrhagic fever with renal syndrome (hfrs). previous studies have identified interferon-induced transmembrane proteins (ifitms) as an interferon-stimulated gene family. however, the role of ifitms in htnv infection is unclear. in this study, we observed that ifitm3 single nucleotide polymorphisms (snp) rs12252 c allele and cc genotype associated with the disease severity and htnv load in the plasma of hfrs patients. in vitro experiments showed that the truncated protein produced by the rs12252 c allele exhibited an impaired anti-htnv activity. we also proved that ifitm3 was able to inhibit htnv infection in both huvec and a549 cells by overexpression and rnai assays, likely via a mechanism of inhibiting virus entry demonstrated by binding and entry assay. localization of ifitm3 in late endosomes was also observed. in addition, we demonstrated that the transcription of ifitm3 is negatively regulated by an lncrna negative regulator of interferon response (nrir).",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what killed prostate cancer cells in vitro?",
+        "answers": [
+            "m13 phage loaded with doxorubicin and displaying a targeting peptide on piii"
+        ],
+        "ctxs": [
+            {
+                "id": "505",
+                "title": "beyond phage display: non-traditional applications of the filamentous bacteriophage as a vaccine carrier, therapeutic biologic, and bioconjugation scaffold",
+                "text": "the first work in this area showed as proof-of-concept that phage encoding a gfp expression cassette and displaying a her2specific scfv on all copies of piii were internalized into breast tumor cells, resulting in gfp expression (poul and marks, 1999) . m13 or fd phage displaying either a targeting peptide or antibody fragment and tethered to chloramphenicol by a labile crosslinker were more potent inhibitors of staphylococcus aureus growth than high-concentration free chloramphenicol (yacoby et al., 2006; vaks and benhar, 2011) . m13 phage loaded with doxorubicin and displaying a targeting peptide on piii specifically killed prostate cancer cells in vitro (ghosh et al., 2012a) .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what platform was instrumental in rapid sharing of covid-19 information?",
+        "answers": [
+            "global initiative on sharing all influenza data (gisaid)"
+        ],
+        "ctxs": [
+            {
+                "id": "853",
+                "title": "on the coronavirus (covid-19) outbreak and the smart city network: universal data sharing standards coupled with artificial intelligence (ai) to benefit urban health monitoring and management",
+                "text": "however, the rate of spread of the virus and the uncertainties surrounding the entire situation has led the world health organization (who) on 30 january 2019 to declare the coronavirus outbreak a 'global public health emergency'. who determined, however, not to declare the outbreak a 'public health emergency of international concern' (pheic) which is a higher level of declaration. a pheic is defined as \"an extraordinary event which is determined to constitute a public health risk to other states through the international spread of disease and to potentially require a coordinated international response\" whose scope may include: serious, sudden, unusual or unexpected; carries implications for public health beyond the affected state's national border; and may require immediate international action  .with the world having experienced some notable influenza pandemics in the past, a global initiative on sharing all influenza data (gisaid) platform  was established and was instrumental in the rapid sharing of information by the chinese scientists regarding the emergence of the covid-19 virus.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what phage may be useful in allergy immunotherapy?",
+        "answers": [
+            "phage displaying peptide ligands of an anti-ige antibody elicited antibodies that bound purified ige molecules"
+        ],
+        "ctxs": [
+            {
+                "id": "492",
+                "title": "beyond phage display: non-traditional applications of the filamentous bacteriophage as a vaccine carrier, therapeutic biologic, and bioconjugation scaffold",
+                "text": "immunization with phage displaying alzheimer's disease \u03b2-amyloid fibril peptides elicited anti-aggregating antibodies in mice and guinea pigs (frenkel et al., 2000 (frenkel et al., , 2003 esposito et al., 2008; tanaka et al., 2011) , possibly reduced amyloid plaque formation in mice (frenkel et al., 2003; solomon, 2005; esposito et al., 2008) , and may have helped maintain cognitive abilities in a transgenic mouse model of alzheimer's disease (lavie et al., 2004) ; however, it remains unclear how such antibodies are proposed to cross the blood-brain barrier. yip et al. (2001) found that antibodies raised in mice against an erbb2/her2 peptide could inhibit breast-cancer cell proliferation. phage displaying peptide ligands of an anti-ige antibody elicited antibodies that bound purified ige molecules (rudolf et al., 1998) , which may be useful in allergy immunotherapy. several strategies for phage-based contraceptive vaccines have been proposed for control of animal populations.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "why are antibody epitope based peptide vaccines are no longer an active research area?",
+        "answers": [
+            "(i) in many cases, peptides incompletely or inadequately mimic epitopes on folded proteins (irving et al., 2010 ; see below); (ii) antibodies against a single epitope may be of limited utility, especially for highly variable pathogens (van regenmortel, 2012); and (iii) for pathogens for which protective immune responses are generated efficiently during natural infection, peptide vaccines offer few advantages over recombinant subunit and live vector vaccines, which have become easier to produce over time."
+        ],
+        "ctxs": [
+            {
+                "id": "491",
+                "title": "beyond phage display: non-traditional applications of the filamentous bacteriophage as a vaccine carrier, therapeutic biologic, and bioconjugation scaffold",
+                "text": "while in some cases the results of these studies have been promising, antibody epitope-based peptide vaccines are no longer an area of active research for several reasons: (i) in many cases, peptides incompletely or inadequately mimic epitopes on folded proteins (irving et al., 2010 ; see below); (ii) antibodies against a single epitope may be of limited utility, especially for highly variable pathogens (van regenmortel, 2012); and (iii) for pathogens for which protective immune responses are generated efficiently during natural infection, peptide vaccines offer few advantages over recombinant subunit and live vector vaccines, which have become easier to produce over time.more recently, peptide-displaying phage have been used in attempts to generate therapeutic antibody responses for chronic diseases, cancer, immunotherapy, and immunocontraception.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the relationship between the presence of virus in anal swabs and disease severity in 2019-ncov?",
+        "answers": [
+            "in the anal swab cohort (figure 1 (b)), 11 of 28 cases were detected to be anal swab positive, 8 of them (72.7%) were with severe symptoms, which was significantly higher than that 4 (23.5%) of the rest 17 cases without detectable virus in anal were severe cases"
+        ],
+        "ctxs": [
+            {
+                "id": "860",
+                "title": "detectable 2019-ncov viral rna in blood is a strong indicator for the further clinical severity",
+                "text": "the ratio of severe symptoms between these two groups was significantly different (p value = 0.0001). in the anal swab cohort (figure 1 (b)), 11 of 28 cases were detected to be anal swab positive, 8 of them (72.7%) were with severe symptoms, which was significantly higher than that 4 (23.5%) of the rest 17 cases without detectable virus in anal were severe cases.fortunately, two cases with detectable virus both in blood and anal swab cohort were recorded. patient 1 (figure 2 (a)) was admitted to icu after enrollment evaluation and was highly suspected infection with 2019-ncov because of his recent travelling from wuhan and of confirmed pneumonia by radiographic diagnosis with 5-day fever and 1-day continuous dry coughing. he was then confirmed to be infected by the 2019-ncov virus on illness day 6 by cdc.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what tool can be used to determine the 3d structure of proteins?",
+        "answers": [
+            "x-ray crystallography"
+        ],
+        "ctxs": [
+            {
+                "id": "231",
+                "title": "inr-drug: predicting the interaction of drugs with nuclear receptors in cellular networking",
+                "text": "although x-ray crystallography is a powerful tool in determining protein 3d structures, it is time-consuming and expensive. particularly, not all proteins can be successfully crystallized. for example, membrane proteins are very difficult to crystallize and most of them will not dissolve in normal solvents. therefore, so far very few membrane protein 3d structures have been determined. although nmr (nuclear magnetic resonance) is indeed a very powerful tool in determining the 3d structures of membrane proteins as indicated by a series of recent publications (see, e.g.,         and a review article  ), it is also time-consuming and costly. to acquire the 3d structural information in a timely manner, one has to resort to various structural bioinformatics tools (see, e.g.,  ), particularly the homologous modeling approach as utilized for a series of protein receptors urgently needed during the process of drug development [19,       .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what percentage of people infected with mers-cov died?",
+        "answers": [
+            "35-50%"
+        ],
+        "ctxs": [
+            {
+                "id": "533",
+                "title": "host resilience to emerging coronaviruses",
+                "text": "severe acute respiratory syndrome coronavirus (sars-cov) was first identified in 2003     . while there was initially great concern about sars-cov, once no new cases emerged, funding and research decreased. however, a decade later middle east respiratory syndrome coronavirus (mers-cov), also known as hcov-emc, emerged initially in saudi arabia [3, 10] . sars-cov infected about 8000 people, and resulted in the deaths of approximately 10% of those infected  . while mers-cov is not as widespread as sars-cov, it appears to have an even higher mortality rate, with 35-50% of diagnosed infections resulting in death [3,   . these deadly betacoronavirus viruses existed in animal reservoirs   9,   . recently, other covs have been detected in animal populations raising the possibility that we will see a repeat of these types of outbreaks in the near future [11,      . both these zoonotic viruses cause a much more severe disease than what is typically seen for covs, making them a global health concern.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "why were only four studies included?",
+        "answers": [
+            "most studies on sars and mers vaccines were excluded as they were performed in cell or animal models"
+        ],
+        "ctxs": [
+            {
+                "id": "582",
+                "title": "potential rapid diagnostics, vaccine and therapeutics for 2019 novel coronavirus (2019-ncov): a systematic review",
+                "text": "most studies on sars and mers vaccines were excluded as they were performed in cell or animal models ( figure 1 ). the four studies included in this review were phase i clinical trials on sars or mers vaccines (table 4 )     . there were no studies of any population type (cell, animal, human) on the 2019-ncov at the point of screening. the published clinical trials were mostly done in united states except for one on the sars vaccine done in china  . all vaccine candidates for sars and mers were reported to be safe, well-tolerated and able to trigger the relevant and appropriate immune responses in the participants. in addition, we highlight six ongoing phase i clinical trials identified in the clinicaltrials.gov register ( [48, 49] ); table s4 )    . these trials are all testing the safety and immunogenicity of their respective mers-cov vaccine candidates but were excluded as there are no results published yet.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how will  this approach used?",
+        "answers": [
+            "will be used globally to help identify evidence of widespread community transmission and, should the virus spread and containment no longer be deemed feasible, to monitor intensity of disease transmission, trends and its geographical spread."
+        ],
+        "ctxs": [
+            {
+                "id": "1002",
+                "title": "first cases of coronavirus disease 2019 (covid-19) in the who european region, 24 january to 21 february 2020",
+                "text": "understanding the infection-severity is critical to help plan for the impact on the healthcare system and the wider population. serological studies are vital to understand the proportion of cases who are asymptomatic. hospital-based surveillance could help estimate the incidence of severe cases and identify risk factors for severity and death. established hospital surveillance systems that are in place for influenza and other diseases in europe may be expanded for this purpose. in addition, a number of countries in europe are adapting and, in some cases, already using existing sentinel primary care based surveillance systems for influenza to detect community transmission of sars-cov-2. this approach will be used globally to help identify evidence of widespread community transmission and, should the virus spread and containment no longer be deemed feasible, to monitor intensity of disease transmission, trends and its geographical spread.additional research is needed to complement surveillance data to build knowledge on the infectious period, modes of transmission, basic and effective reproduction numbers, and effectiveness of prevention and case management options also in settings outside of china.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what do ribozymes lack?",
+        "answers": [
+            "the genetic triplet code and do not encode proteins"
+        ],
+        "ctxs": [
+            {
+                "id": "760",
+                "title": "viruses and evolution \u2013 viruses first? a personal perspective",
+                "text": "thus, small peptides were available by ribozyme activity. consequently, an rna modification has been proposed as peptide nucleic acid (pna), with more stable peptide bonds instead of phosphodiester bonds (zhang and cech, 1997; joyce, 2002) . replication of rna molecules can be performed chemically from rna without polymerase enzymes. in addition, deoxyribozymes can form from ribonucleotides (wilson and szostak, 1999) . thus, dna can arise from rna chemically, without the key protein enzyme, the reverse transcriptase.an entire living world is possible from non-coding rna (ncrna) before evolution of the genetic code and protein enzymes. ribozymes naturally consist of circular single-stranded rnas (orgel, 2004) . they lack the genetic triplet code and do not encode proteins. instead, they exhibit structural information by hairpin-loops that form hydrogen bonds between incomplete double strands, and loops free to interact with other molecules. they represent a quasispecies in which many species of rna may form, such as ribozymes, trna-like molecules, and other ncrnas.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what  are ways to perform laboratory diagnostics?",
+        "answers": [
+            "(a) detecting the genetic material of the virus, (b) detecting the antibodies that neutralize the viral particles of interest, (c) detecting the viral epitopes of interest with antibodies (serological testing), or (d) culture and isolation of viable virus particles."
+        ],
+        "ctxs": [
+            {
+                "id": "597",
+                "title": "potential rapid diagnostics, vaccine and therapeutics for 2019 novel coronavirus (2019-ncov): a systematic review",
+                "text": "local transmission and clusters can be prevented or delayed by isolation of laboratory-confirmed cases and their close contacts quarantined and monitored at home. rapid diagnostic also facilitates other specific public health interventions such as closure of high-risk facilities and areas associated with the confirmed cases for prompt infection control and environmental decontamination [11, 101] .laboratory diagnosis can be performed by: (a) detecting the genetic material of the virus, (b) detecting the antibodies that neutralize the viral particles of interest, (c) detecting the viral epitopes of interest with antibodies (serological testing), or (d) culture and isolation of viable virus particles.the key limitations of genetic material detection are the lack of knowledge of the presence of viable virus, the potential cross-reactivity with non-specific genetic regions and the short timeframe for accurate detection during the acute infection phase.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what test can detect reduced anticoccidial efficacy in the field?",
+        "answers": [
+            "faecal oocyst count reduction test (focrt)"
+        ],
+        "ctxs": [
+            {
+                "id": "175",
+                "title": "controlled efficacy trial confirming toltrazuril resistance in a field isolate of ovine eimeria spp.",
+                "text": " coccidiosis due to eimeria spp. infections in lambs causes increased mortality and substantial production losses, and anticoccidials are important for control of the infection. anticoccidial resistance has been reported in poultry and swine, and we recently described reduced toltrazuril efficacy in ovine eimeria spp. in some norwegian sheep farms using a newly developed faecal oocyst count reduction test (focrt). the aim of the present study was to use a controlled efficacy trial to assess the efficacy of toltrazuril against a field isolate suspected of being resistant.  twenty lambs, 17\u201322 days old and raised protected against exposure to coccidia, were infected with a field isolate of 100,000 eimeria spp. oocysts. this isolate was obtained from a farm with a previously calculated drug efficacy of 56% (95% confidence interval: -433.9 to 96.6%). at day 7 post-infection, 10 of the lambs were orally treated with 20 mg/kg toltrazuril (baycox sheep vet., bayer animal health), while the other 10 lambs (controls) were given physiological saline.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how many cases had no pre-existing conditions?",
+        "answers": [
+            "five"
+        ],
+        "ctxs": [
+            {
+                "id": "983",
+                "title": "first cases of coronavirus disease 2019 (covid-19) in the who european region, 24 january to 21 february 2020",
+                "text": "in the german cluster, for example, the first three cases detected locally were hospitalised in a mean of 5.7 days, whereas the following six took only a mean of 2 days to be hospitalised.symptoms at the point of diagnosis were reported for 31 cases. two cases were asymptomatic and remained so until tested negative. the asymptomatic cases were tested as part of screening following repatriation and during contact tracing respectively. of the remaining 29, 20 reported fever, 14 reported cough and eight reported weakness. additional symptoms reported included headaches (6 cases), sore throat (2), rhinorrhoea (2), shortness of breath (2), myalgia (1), diarrhoea (1) and nausea (1). fever was reported as the sole symptom for nine cases. in 16 of 29 symptomatic cases, the symptoms at diagnosis were consistent with the case definition for acute respiratory infection  , although it is possible that cases presented additional symptoms after diagnosis and these were not reported.data on pre-existing conditions were reported for seven cases; five had no pre-existing conditions while one was reported to be obese and one had pre-existing cardiac disease.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what novel features does the genome have?",
+        "answers": [
+            "its orf3b encodes a completely novel short protein. furthermore, its new orf8 likely encodes a secreted protein with an alpha-helix, following with a beta-sheet(s) containing six strands."
+        ],
+        "ctxs": [
+            {
+                "id": "1026",
+                "title": "genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting wuhan",
+                "text": "a mysterious outbreak of atypical pneumonia in late 2019 was traced to a seafood wholesale market in wuhan of china. within a few weeks, a novel coronavirus tentatively named as 2019 novel coronavirus (2019-ncov) was announced by the world health organization. we performed bioinformatics analysis on a virus genome from a patient with 2019-ncov infection and compared it with other related coronavirus genomes. overall, the genome of 2019-ncov has 89% nucleotide identity with bat sars-like-covzxc21 and 82% with that of human sars-cov. the phylogenetic trees of their orf1a/b, spike, envelope, membrane and nucleoprotein also clustered closely with those of the bat, civet and human sars coronaviruses. however, the external subdomain of spike\u2019s receptor binding domain of 2019-ncov shares only 40% amino acid identity with other sars-related coronaviruses. remarkably, its orf3b encodes a completely novel short protein. furthermore, its new orf8 likely encodes a secreted protein with an alpha-helix, following with a beta-sheet(s) containing six strands.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how many open reading frames are in the saibk gene?",
+        "answers": [
+            "10"
+        ],
+        "ctxs": [
+            {
+                "id": "81",
+                "title": "complete genome sequence of a nephropathogenic infectious bronchitis virus strain isolated in china",
+                "text": "other parts were amplified by 19 primers with overlap between each fragment and were cloned into the pmd19-t vector (takara, japan). all fragments were sequenced three times by sangon biotech (shanghai, china). the sequenced fragments were assembled using the seqman software program (dnastar, inc.). sequence alignment was conducted and a phylogenetic tree was constructed using the software program mega5 (7). recombination analysis was performed using the rdp 4.14 (8) and simplot 3.5.1 (9) software programs.the complete genome of the saibk strain is 27,534 nucleotides (nt) in length, including the poly(a) tail. it has a classical ibv genome organization with 10 open reading frames (orfs):the genome sequence of saibk shows the highest identity (94.3%) to the chinese ibv strain sc021202 (genbank accession no. eu714029) and the lowest identity (85.8%) to two chinese ibv strains, bj (genbank accession no. ay319651) and dy07 (genbank accession no. hm245923).",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what country does this study exclude?",
+        "answers": [
+            "united kingdom (uk)"
+        ],
+        "ctxs": [
+            {
+                "id": "965",
+                "title": "first cases of coronavirus disease 2019 (covid-19) in the who european region, 24 january to 21 february 2020",
+                "text": "as at 5 march, there were 4,250 cases.a cluster of pneumonia of unknown origin was identified in wuhan, china, in december 2019  . on 12 january 2020, chinese authorities shared the sequence of a novel coronavirus termed severe acute respiratory syndrome coronavirus 2 (sars-cov-2) isolated from some clustered cases  . since then, the disease caused by sars-cov-2 has been named coronavirus disease 2019 (covid -19) . as at 21 february 2020, the virus had spread rapidly mostly within china but also to 28 other countries, including in the world health organization (who) european region    .here we describe the epidemiology of the first cases of covid-19 in this region, excluding cases reported in the united kingdom (uk), as at 21 february 2020.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what was demonstrated in deriving the equation for r 0?",
+        "answers": [
+            "invasion threshold is elevated at high values of constitutive antiviral acquisition,"
+        ],
+        "ctxs": [
+            {
+                "id": "844",
+                "title": "accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence",
+                "text": "such rapidly-reproducing viruses would likely generate extreme virulence upon spillover to hosts lacking similar immune capacities to bats.to achieve these results, we first developed a novel, within-host, theoretical model elucidating the effects of unique bat immunity, then undertook bifurcation analysis of the model's equilibrium properties under immune absent, induced, and constitutive assumptions. we considered a cell line to be constitutively immune if possessing any number of antiviral cells at disease-free equilibrium but allowed the extent of constitutive immunity to vary across the parameter range for \", the constitutive rate of antiviral acquisition. in deriving the equation for r 0 , the basic reproduction number, which defines threshold conditions for virus invasion of a tissue (r 0 >1), we demonstrated how the invasion threshold is elevated at high values of constitutive antiviral acquisition, \". constitutive immune processes can thus prohibit pathogen invasion, while induced responses, by definition, can only control infections post-hoc.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the disadvantage of upper respiratory tract specimens?",
+        "answers": [
+            "hey have potentially lower viral loads and may have higher risk of false-negatives among the mild mers and sars cases [102, 103] , and likely among the 2019-ncov cases."
+        ],
+        "ctxs": [
+            {
+                "id": "604",
+                "title": "potential rapid diagnostics, vaccine and therapeutics for 2019 novel coronavirus (2019-ncov): a systematic review",
+                "text": "single infusions of sab-301 up to 50 mg/kg appear to be safe and well-tolerated in healthy participants. where the biological samples are taken from also play a role in the sensitivity of these tests. for sars-cov and mers-cov, specimens collected from the lower respiratory tract such as sputum and tracheal aspirates have higher and more prolonged levels of viral rna because of the tropism of the virus. mers-cov viral loads are also higher for severe cases and have longer viral shedding compared to mild cases. although upper respiratory tract specimens such as nasopharyngeal or oropharyngeal swabs can be used, they have potentially lower viral loads and may have higher risk of false-negatives among the mild mers and sars cases [102, 103] , and likely among the 2019-ncov cases.the existing practices in detecting genetic material of coronaviruses such as sars-cov and mers-cov include (a) reverse transcription-polymerase chain reaction (rt-pcr), (b) real-time rt-pcr (rrt-pcr), (c) reverse transcription loop-mediated isothermal amplification (rt-lamp) and (d) real-time rt-lamp  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "when did she present with rapidly progressive right-hand weakness?",
+        "answers": [
+            "1 month later"
+        ],
+        "ctxs": [
+            {
+                "id": "161",
+                "title": "acute hemorrhagic encephalitis responding to combined decompressive craniectomy, intravenous immunoglobulin, and corticosteroid therapies: association with novel ranbp2 variant",
+                "text": "at discharge, her neurological exam was significant only for vertical diplopia.she presented 1 month later with 5 days of upper respiratory tract infection symptoms, fever, headache, and a rapidly progressive right-hand weakness (d30) with normal alertness. she had normal blood pressure (120/81 mmhg). she was started on cefotaxime, vancomycin, and acyclovir. white cell count was 13.4 \u00d7 10 9 /l, hemoglobin was 7.8 g/l, and platelets were 239 \u00d7 10 9 /l. while in the mri machine (d30) she deteriorated with vomiting and reduced level of consciousness (glasgow coma scale dropped from 15 to 8 over 30 min). brain mri showed a rapid progression over a few sequences of an active bleed involving both superficial and deep gray matter as well as subcortical white matter of the left hemisphere anterior quadrant. brain mra was normal (figures 2a-f) . the patient was immediately brought out of the magnet and her physical exam demonstrated unequal dilated pupils.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is a conclusion of the study?",
+        "answers": [
+            "regardless of mechanism (induced or constitutive), interferon-stimulated antiviral cells appear to play a key role in maintaining longer term or persistent infections by safeguarding susceptible cells from rapid infection and concomitant cell death."
+        ],
+        "ctxs": [
+            {
+                "id": "846",
+                "title": "accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence",
+                "text": "once thresholds for pathogen invasion have been met, assumptions of constitutive immunity will limit the cellular mortality (virulence) incurred at high transmission rates. regardless of mechanism (induced or constitutive), interferon-stimulated antiviral cells appear to play a key role in maintaining longer term or persistent infections by safeguarding susceptible cells from rapid infection and concomitant cell death. fitting of our model to in vitro data supported expected immune phenotypes for different bat cell lines as described in the literature. simple target cell models that ignore the effects of immunity best recapitulated infectious time series derived from ifn-deficient vero cells, while models assuming induced immune processes most accurately reproduced trials derived from roni/7.1 (rousettus aegyptiacus) cells, which possess a standard virusinduced ifn-response. in most cases, models assuming constitutive immune processes best recreated virus epidemics produced on pakit01 (pteropus alecto) cells, which are known to constitutively express the antiviral cytokine, ifn-a (zhou et al., 2016) .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the estimate of r 0?",
+        "answers": [
+            "the value of r 0 was estimated of 2.30 from reservoir to person and 3.58 from person to person which means that the expected number of secondary infections that result from introducing a single infected individual into an otherwise susceptible population was 3.5"
+        ],
+        "ctxs": [
+            {
+                "id": "869",
+                "title": "a mathematical model for simulating the phase-based transmissibility of a novel coronavirus",
+                "text": "results the value of r 0 was estimated of 2.30 from reservoir to person and 3.58 from person to person which means that the expected number of secondary infections that result from introducing a single infected individual into an otherwise susceptible population was 3.58. conclusions our model showed that the transmissibility of sars-cov-2 was higher than the middle east respiratory syndrome in the middle east countries, similar to severe acute respiratory syndrome, but lower than mers in the republic of korea.text: on 31 december 2019, the world health organization (who) china country office was informed of cases of pneumonia of unknown etiology (unknown cause) detected in wuhan city, hubei province of china, and who reported that a novel coronavirus (2019-ncov), which was named as severe acute respiratory syndrome coronavirus 2 (sars-cov-2) by international committee on taxonomy of viruses on 11 february, 2020, was identified as the causative virus by chinese authorities on 7 january  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what are some negative effects of decreasing immunopathology by immunomodulation?",
+        "answers": [
+            "decreasing immunopathology by immunomodulation is problematic because it can lead to increased pathogen burden, and thus increase virus-induced pathology"
+        ],
+        "ctxs": [
+            {
+                "id": "549",
+                "title": "host resilience to emerging coronaviruses",
+                "text": "other immunomodulators include celecoxib, mesalazine and eritoran [72, 73] . another class of drugs that have been suggested are statins. they act to stabilize the activation of aspects of the innate immune response and prevent excessive inflammation  . however, decreasing immunopathology by immunomodulation is problematic because it can lead to increased pathogen burden, and thus increase virus-induced pathology [75, 76] . another potential treatment option is increasing tissue repair pathways to increase host resilience to disease. this has been shown by bioinformatics  , as well as in several animal models [30-31,78-79]. these therapies have been shown in cell culture model systems or animal models to be effective, but have not been demonstrated in human patients. the correct timing of the treatments is essential. early intervention has been shown to be the most effective in some cases, but other therapies work better when given slightly later during the course of the infection.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what type of coronavirus was detected in r. affinis and r. sinicus species?",
+        "answers": [
+            "btcov/rh/yn2012"
+        ],
+        "ctxs": [
+            {
+                "id": "239",
+                "title": "characterization of a new member of alphacoronavirus with unique genomic features in rhinolophus bats",
+                "text": "bats have been identified as a natural reservoir of a variety of coronaviruses (covs). several of them have caused diseases in humans and domestic animals by interspecies transmission. considering the diversity of bat coronaviruses, bat species and populations, we expect to discover more bat covs through virus surveillance. in this study, we described a new member of alphacov (btcov/rh/yn2012) in bats with unique genome features. unique accessory genes, orf4a and orf4b were found between the spike gene and the envelope gene, while orf8 gene was found downstream of the nucleocapsid gene. all the putative genes were further confirmed by reverse-transcription analyses. one unique gene at the 3\u2019 end of the btcov/rh/yn2012 genome, orf9, exhibits ~30% amino acid identity to orf7a of the sars-related coronavirus. functional analysis showed orf4a protein can activate ifn-\u03b2 production, whereas orf3a can regulate nf-\u03bab production. we also screened the spike-mediated virus entry using the spike-pseudotyped retroviruses system, although failed to find any fully permissive cells.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "in non-flying mammals, what what would be elicited by ifn expression upon viral infection?",
+        "answers": [
+            "widespread inflammation and concomitant immunopathology upon viral infection"
+        ],
+        "ctxs": [
+            {
+                "id": "824",
+                "title": "accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence",
+                "text": "typically, the presence of viral rna or dna in the cytoplasm of mammalian cells will induce secretion of type i interferon proteins (ifn-a and ifn-b), which promote expression and translation of interferon-stimulated genes (isgs) in neighboring cells and render them effectively antiviral (stetson and medzhitov, 2006) . in some bat cells, the transcriptomic blueprints for this ifn response are expressed constitutively, even in the absence of stimulation by viral rna or dna (zhou et al., 2016) . in non-flying mammals, constitutive ifn expression would likely elicit widespread inflammation and concomitant immunopathology upon viral infection, but bats support unique adaptations to combat inflammation (zhang et al., 2013; ahn et al., 2019; xie et al., 2018; pavlovich et al., 2018) that may have evolved to mitigate metabolic damage induced during flight (kacprzyk et al., 2017) . the extent to which constitutive ifn-a expression signifies constitutive antiviral defense in the form of functional ifn-a protein remains unresolved.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what diminishes the effectiveness of annual influenza vaccinations?",
+        "answers": [
+            "constant evolution of circulating influenza virus strains and the emergence of new strains"
+        ],
+        "ctxs": [
+            {
+                "id": "641",
+                "title": "virus-vectored influenza virus vaccines",
+                "text": "despite the availability of an inactivated vaccine that has been licensed for >50 years, the influenza virus continues to cause morbidity and mortality worldwide. constant evolution of circulating influenza virus strains and the emergence of new strains diminishes the effectiveness of annual vaccines that rely on a match with circulating influenza strains. thus, there is a continued need for new, efficacious vaccines conferring cross-clade protection to avoid the need for biannual reformulation of seasonal influenza vaccines. recombinant virus-vectored vaccines are an appealing alternative to classical inactivated vaccines because virus vectors enable native expression of influenza antigens, even from virulent influenza viruses, while expressed in the context of the vector that can improve immunogenicity. in addition, a vectored vaccine often enables delivery of the vaccine to sites of inductive immunity such as the respiratory tract enabling protection from influenza virus infection.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the role of interferon's (ifns) in the treatment of sars-cov?",
+        "answers": [
+            "there is some evidence that simultaneous treatment with ifns could increase the potential benefits"
+        ],
+        "ctxs": [
+            {
+                "id": "548",
+                "title": "host resilience to emerging coronaviruses",
+                "text": "this was tried with and without the use of type i ifns and other therapies that could directly target the virus  . retrospective analysis revealed that, when given at the correct time and to the appropriate patients, corticosteroid use could decrease mortality and also length of hospital stays  . in addition, there is some evidence that simultaneous treatment with ifns could increase the potential benefits  . although these treatments are not without complications, and there has been a lack of a randomized controlled trial [5, 39] .corticosteroids are broadly immunosuppressive and have many physiological effects [5, 39] . several recent studies have suggested that other compounds could be useful in increasing host resilience to viral lung infections. a recent paper demonstrates that topoisomerase i can protect against inflammation-induced death from a variety of viral infections including iav  . blockade of c5a complement signaling has also been suggested as a possible option in decreasing inflammation during iav infection  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what symptoms were reported?",
+        "answers": [
+            "of the remaining 29, 20 reported fever, 14 reported cough and eight reported weakness. additional symptoms reported included headaches (6 cases), sore throat (2), rhinorrhoea (2), shortness of breath (2), myalgia (1), diarrhoea (1) and nausea (1)"
+        ],
+        "ctxs": [
+            {
+                "id": "955",
+                "title": "first cases of coronavirus disease 2019 (covid-19) in the who european region, 24 january to 21 february 2020",
+                "text": "in the german cluster, for example, the first three cases detected locally were hospitalised in a mean of 5.7 days, whereas the following six took only a mean of 2 days to be hospitalised.symptoms at the point of diagnosis were reported for 31 cases. two cases were asymptomatic and remained so until tested negative. the asymptomatic cases were tested as part of screening following repatriation and during contact tracing respectively. of the remaining 29, 20 reported fever, 14 reported cough and eight reported weakness. additional symptoms reported included headaches (6 cases), sore throat (2), rhinorrhoea (2), shortness of breath (2), myalgia (1), diarrhoea (1) and nausea (1). fever was reported as the sole symptom for nine cases. in 16 of 29 symptomatic cases, the symptoms at diagnosis were consistent with the case definition for acute respiratory infection  , although it is possible that cases presented additional symptoms after diagnosis and these were not reported.data on pre-existing conditions were reported for seven cases; five had no pre-existing conditions while one was reported to be obese and one had pre-existing cardiac disease.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what was the clinical evolution of the hospitalised cases?",
+        "answers": [
+            "all hospitalised cases had a benign clinical evolution except four,"
+        ],
+        "ctxs": [
+            {
+                "id": "985",
+                "title": "first cases of coronavirus disease 2019 (covid-19) in the who european region, 24 january to 21 february 2020",
+                "text": "no data on clinical signs e.g. dyspnea etc. were reported for any of the 38 cases.all hospitalised cases had a benign clinical evolution except four, two reported in italy and two reported in france, all of whom developed viral pneumonia. all three cases who were aged 65 years or over were admitted to intensive care and required respiratory support and one french case died. the case who died was hospitalised for 21 days and required intensive care and mechanical ventilation for 19 days. the duration of hospitalisation was reported for 16 cases with a median of 13 days (range: 8-23 days). as at 21 february 2020, four cases were still hospitalised.all cases were confirmed according to specific assays targeting at least two separate genes (envelope (e) gene as a screening test and rna-dependent rna polymerase (rdrp) gene or nucleoprotein (n) gene for confirmation) [8, 17] .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what suggests that irish equine coronaviruses may have a low genetic diversity?",
+        "answers": [
+            "high level of homology between viruses"
+        ],
+        "ctxs": [
+            {
+                "id": "202",
+                "title": "the first detection of equine coronavirus in adult horses and foals in ireland",
+                "text": "however, this low prevalence of ecov is similar to that identified in france  and among thoroughbred foals in japan  .although ecov has been identified on three continents, little is known about the genetic and pathogenic diversity in field viruses. in this study, sequence and phylogenetic analysis (figure 1 ) demonstrated a high level of homology between viruses detected in a donkey and a horse in two provinces in ireland in different years. this suggests that irish ecovs may have low genetic diversity. compared with the ecovs of other countries, the n, s and p12.7 genes of the two irish viruses were highly conserved. in contrast, the region from p4.7 and the non-coding region following the p4.7 gene had deletions or insertions ( figure s1 ). because of polymorphism in this region, this region could be useful for epidemiological investigation  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "orf8 was shown to do  what?",
+        "answers": [
+            "to trigger intracellular stress pathways and activates nlrp3 inflammasomes"
+        ],
+        "ctxs": [
+            {
+                "id": "1065",
+                "title": "genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting wuhan",
+                "text": "as expected, orf8 derived from 2019-ncov belongs to the group that includes the closest genome sequences of bat sars-related-cov zxc21 and zc45. interestingly, the new 2019-ncov orf8 is distant from the conserved orf8 or figure 5(b) ) which was shown to trigger intracellular stress pathways and activates nlrp3 inflammasomes  , but this is absent in this novel orf8 of 2019-ncov. based on a secondary structure prediction, this novel orf8 has a high possibility to form a protein with an alpha-helix, following with a betasheet(s) containing six strands ( figure 5(c) ).the genome of 2019-ncov has overall 89% nucleotide identity with bat sars-related-cov sl-covzxc21 (mg772934.1), and 82% with human sars-cov bj01 2003 (ay278488) and human sars-cov tor2 (ay274119). the phylogenetic trees constructed using the amino acid sequences of orf1a/b and the 4 structural genes (s, e, m, and n) were shown (figure 6(a-e) ). for all these 5 genes, the 2019-ncov was clustered with lineage b \u03b2covs.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how is the split virus inactivated?",
+        "answers": [
+            "the virus is disrupted by a detergent"
+        ],
+        "ctxs": [
+            {
+                "id": "649",
+                "title": "virus-vectored influenza virus vaccines",
+                "text": "while adjuvants have the potential to improve efficacy and availability of current inactivated vaccines, live-attenuated and virus-vectored vaccines are still considered one of the best options for the induction of broad and efficacious immunity to the influenza virus  .the general types of influenza vaccines available in the united states are trivalent inactivated influenza vaccine (tiv), quadrivalent influenza vaccine (qiv), and live attenuated influenza vaccine (laiv; in trivalent and quadrivalent forms). there are three types of inactivated vaccines that include whole virus inactivated, split virus inactivated, and subunit vaccines. in split virus vaccines, the virus is disrupted by a detergent. in subunit vaccines, ha and na have been further purified by removal of other viral components. tiv is administered intramuscularly and contains three or four inactivated viruses, i.e., two type a strains (h1 and h3) and one or two type b strains.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the advantage of the aav vector?",
+        "answers": [
+            "the wild type viruses are non-pathogenic and replication incompetent in humans and the recombinant aav vector systems are even further attenuated"
+        ],
+        "ctxs": [
+            {
+                "id": "704",
+                "title": "virus-vectored influenza virus vaccines",
+                "text": "prime-boost strategies, using dna or protein immunization in conjunction with an adenovirus vaccine booster immunization have also been explored as a means to avoided preexisting immunity  .adeno-associated viruses (aav) were first explored as gene therapy vectors. like rad vectors, raav have broad tropism infecting a variety of hosts, tissues, and proliferating and non-proliferating cell types  . aavs had been generally not considered as vaccine vectors because they were widely considered to be poorly immunogenic. a seminal study using aav-2 to express a hsv-2 glycoprotein showed this virus vaccine vector effectively induced potent cd8 + t cell and serum antibody responses, thereby opening the door to other raav vaccine-associated studies [59, 60] .aav vector systems have a number of engaging properties. the wild type viruses are non-pathogenic and replication incompetent in humans and the recombinant aav vector systems are even further attenuated  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how does the transmission in asia occur?",
+        "answers": [
+            "in an urban cycle whereby the mosquito spreads the disease from an infected human to an uninfected human, following an epidemiological pattern similar to dengue fever"
+        ],
+        "ctxs": [
+            {
+                "id": "775",
+                "title": "chikungunya: a potentially emerging epidemic?",
+                "text": "chikv is an arthropod-borne virus (arbovirus) and is transmitted to humans primarily by aedes aegypti, the infamous yellow fever propagator [4, 5] . chikv infection is marked by severe joint pain, contorting its victims into unusual postures  . the disease gets its name from the kimakonde vernacular language of tanzania and mozambique, and the word chikungunya means ''that which contorts or bends up'' and translates in swahili to ''the illness of the bended walker'' [7, 8, 9] . in africa, chikv is maintained in a sylvatic cycle among forest-dwelling aedes spp. mosquitoes, wild primates, squirrels, birds, and rodents ( figure 1 )  . in asia, the disease is vectored by ae. aegypti and ae. albopictus  . transmission in asia occurs in an urban cycle whereby the mosquito spreads the disease from an infected human to an uninfected human, following an epidemiological pattern similar to dengue fever  .the 2005-2006 epidemic of chikv in la reunion islands in the indian ocean, spurred the discovery of a new vector species, ae.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how is pheic defined?",
+        "answers": [
+            "an extraordinary event which is determined to constitute a public health risk to other states through the international spread of disease and to potentially require a coordinated international response"
+        ],
+        "ctxs": [
+            {
+                "id": "852",
+                "title": "on the coronavirus (covid-19) outbreak and the smart city network: universal data sharing standards coupled with artificial intelligence (ai) to benefit urban health monitoring and management",
+                "text": "however, the rate of spread of the virus and the uncertainties surrounding the entire situation has led the world health organization (who) on 30 january 2019 to declare the coronavirus outbreak a 'global public health emergency'. who determined, however, not to declare the outbreak a 'public health emergency of international concern' (pheic) which is a higher level of declaration. a pheic is defined as \"an extraordinary event which is determined to constitute a public health risk to other states through the international spread of disease and to potentially require a coordinated international response\" whose scope may include: serious, sudden, unusual or unexpected; carries implications for public health beyond the affected state's national border; and may require immediate international action  .with the world having experienced some notable influenza pandemics in the past, a global initiative on sharing all influenza data (gisaid) platform  was established and was instrumental in the rapid sharing of information by the chinese scientists regarding the emergence of the covid-19 virus.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is a function associated with ifitm5?",
+        "answers": [
+            "bone formation factor."
+        ],
+        "ctxs": [
+            {
+                "id": "14",
+                "title": "role of s-palmitoylation on ifitm5 for the interaction with fkbp11 in osteoblast cells",
+                "text": "our investigations using an established reporter, 17-octadecynoic acid (17-odya), and an inhibitor for the s-palmitoylation, 2-bromopalmitic acid (2bp), revealed that ifitm5 was s-palmitoylated in addition to ifitm3. specifically, we found that cysteine residues in the tm1 domain and in the cp loop were s-palmitoylated in ifitm5. then, we revealed by immunoprecipitation and western blot analyses that the interaction of ifitm5 with fkbp11 was inhibited in the presence of 2bp. the mutant lacking the s-palmitoylation site in the tm1 domain lost the interaction with fkbp11. these results indicate that the s-palmitoylation on ifitm5 promotes the interaction with fkbp11. finally, we investigated bone nodule formation in osteoblast cells in the presence of 2bp, because ifitm5 was originally identified as a bone formation factor. the experiment resulted in a morphological aberration of the bone nodule.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the mortality rate of venezuelan equine encephalitis virus in adults?",
+        "answers": [
+            "10%"
+        ],
+        "ctxs": [
+            {
+                "id": "521",
+                "title": "venezuelan equine encephalitis virus induces apoptosis through the unfolded protein response activation of egr1",
+                "text": "the ia/b and ic strains are of particular concern due to increased rates of morbidity and mortality and the risks associated with viral amplification and potential species spillover (2) . in humans, veev causes a febrile illness typified by fever, malaise, and vomiting. in some cases, infection progresses to the central nervous system (cns) and neurological symptoms, such as confusion, ataxia, and seizures, manifest. the mortality rate among cases with neurological symptoms can be as high as 35% in children and 10% in adults, with long-term neurological deficits often being seen in survivors (2) . in 1995, an outbreak of veev in colombia and venezuela resulted in over 100,000 human cases (3) . in addition to natural outbreaks, veev is also a concern from a bioterrorism perspective, as it can be grown to high titers, requires a low infectious dose, and contains multiple serotypes.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what  was the initial growth phase pattern?",
+        "answers": [
+            "exponential growth pattern"
+        ],
+        "ctxs": [
+            {
+                "id": "1007",
+                "title": "estimating the unreported number of novel coronavirus (2019-ncov) cases in china in the first half of january 2020: a data-driven modelling analysis of the early outbreak",
+                "text": " in december 2019, an outbreak of respiratory illness caused by a novel coronavirus (2019-ncov) emerged in wuhan, china and has swiftly spread to other parts of china and a number of foreign countries. the 2019-ncov cases might have been under-reported roughly from 1 to 15 january 2020, and thus we estimated the number of unreported cases and the basic reproduction number, r0, of 2019-ncov.  we modelled the epidemic curve of 2019-ncov cases, in mainland china from 1 december 2019 to 24 january 2020 through the exponential growth. the number of unreported cases was determined by the maximum likelihood estimation. we used the serial intervals (si) of infection caused by two other well-known coronaviruses (cov), severe acute respiratory syndrome (sars) and middle east respiratory syndrome (mers) covs, as approximations of the unknown si for 2019-ncov to estimate r0.  we confirmed that the initial growth phase followed an exponential growth pattern.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what was the most common virus detected in community samples in ilorin, nigeria?",
+        "answers": [
+            "coronavirus oc43"
+        ],
+        "ctxs": [
+            {
+                "id": "187",
+                "title": "etiology of respiratory tract infections in the community and clinic in ilorin, nigeria",
+                "text": "coronavirus oc43 was the most common virus detected in community members (13.3%, 10/75). a different strain, coronavirus oc 229 e/nl63 was detected among subjects from the clinic (2/16) and not detected in the community. this pilot study provides evidence that data from the community can potentially represent different information than that sourced clinically, suggesting the need for community surveillance to enhance public health efforts and scientific understanding of respiratory infections.text: acute respiratory infections (aris) (the cause of both upper respiratory tract infections (uris) and lower respiratory tract infections (lris)) are a major cause of death among children under 5 years old particularly in developing countries where the burden of disease is 2-5 times higher than in developed countries  . while these viruses usually cause mild cold-like symptoms and can be self-limiting, in recent years novel coronaviruses such as severe acute respiratory syndrome (sars) and middle east respiratory syndrome (mers) have evolved and infected humans, causing severe illness, epidemics and pandemics  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what does the orf8 derived from 2019-ncov belong to?",
+        "answers": [
+            "the group that includes the closest genome sequences of bat sars-related-cov zxc21 and zc45."
+        ],
+        "ctxs": [
+            {
+                "id": "1063",
+                "title": "genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting wuhan",
+                "text": "as expected, orf8 derived from 2019-ncov belongs to the group that includes the closest genome sequences of bat sars-related-cov zxc21 and zc45. interestingly, the new 2019-ncov orf8 is distant from the conserved orf8 or figure 5(b) ) which was shown to trigger intracellular stress pathways and activates nlrp3 inflammasomes  , but this is absent in this novel orf8 of 2019-ncov. based on a secondary structure prediction, this novel orf8 has a high possibility to form a protein with an alpha-helix, following with a betasheet(s) containing six strands ( figure 5(c) ).the genome of 2019-ncov has overall 89% nucleotide identity with bat sars-related-cov sl-covzxc21 (mg772934.1), and 82% with human sars-cov bj01 2003 (ay278488) and human sars-cov tor2 (ay274119). the phylogenetic trees constructed using the amino acid sequences of orf1a/b and the 4 structural genes (s, e, m, and n) were shown (figure 6(a-e) ). for all these 5 genes, the 2019-ncov was clustered with lineage b \u03b2covs.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "why are nucleic amplification tests (naat) usually preferred as in the case of mers-cov diagnosis?",
+        "answers": [
+            "it has the highest sensitivity at the earliest time point in the acute phase of infection"
+        ],
+        "ctxs": [
+            {
+                "id": "605",
+                "title": "potential rapid diagnostics, vaccine and therapeutics for 2019 novel coronavirus (2019-ncov): a systematic review",
+                "text": "nucleic amplification tests (naat) are usually preferred as in the case of mers-cov diagnosis as it has the highest sensitivity at the earliest time point in the acute phase of infection  . chinese health authorities have recently posted the full genome of 2019-ncov in the genbank and in gisaid portal to facilitate in the detection of the virus  . several laboratory assays have been developed to detect the novel coronavirus in wuhan, as highlighted in who's interim guidance on ncov laboratory testing of suspected cases. these include protocols from other countries such as thailand, japan and china  .the first validated diagnostic test was designed in germany. corman et al. had initially designed a candidate diagnostic rt-pcr assay based on the sars or sars-related coronavirus as it was suggested that circulating virus was sars-like. upon the release of the sequence, assays were selected based on the match against 2019-ncov upon inspection of the sequence alignment.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "how many different pathogens are members of the flaviviridae family of virus?",
+        "answers": [
+            "70"
+        ],
+        "ctxs": [
+            {
+                "id": "298",
+                "title": "screening of fda-approved drugs for inhibitors of japanese encephalitis virus infection",
+                "text": "furthermore, manidipine was indicated to protect mice against jev-induced lethality by decreasing the viral load in the brain, while it abrogated the histopathological changes associated with jev infection. this study provides five antiflavivirus candidates and identifies cytoplasmic calcium to be a novel antiviral target for the treatment of jev infection. the findings reported here provide therapeutic possibilities for combating infections caused by flaviviruses. importance no approved therapy for the treatment of japanese encephalitis virus infection is currently available. repurposing of approved drugs would accelerate the development of a therapeutic stratagem. in this study, we screened a library of fda-approved drugs and identified five hit drugs, especially calcium inhibitors, exerting antiflavivirus activity that blocked viral replication. the in vivo efficacy and toxicity of manidipine were investigated with a mouse model of jev infection, and the viral target was identified by generating an adaptive mutant.text: f laviviruses are taxonomically classified in the genus flavivirus and family flaviviridae.these viruses comprise over 70 different pathogens, such as japanese encephalitis virus (jev), zika virus (zikv), dengue virus (denv), west nile virus (wnv), and yellow fever virus (yfv).",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "in 2009 what was the reported h1n1 vaccination rate in china?",
+        "answers": [
+            "10.8%"
+        ],
+        "ctxs": [
+            {
+                "id": "945",
+                "title": "knowledge, attitudes and practices (kap) related to the pandemic (h1n1) 2009 among chinese general population: a telephone survey",
+                "text": "the immunization rates of the seasonal flu and h1n1vaccine were 7.5% and 10.8%, respectively. farmers and those with lower education level were less likely to know the main transmission route (cough or talk face to face). female and those with college and above education had higher perception of risk and more compliance with preventive behaviors. relationships between knowledge and risk perception (or = 1.69; 95%ci 1.54-1.86), and knowledge and practices (or = 1.57; 95%ci 1.42-1.73) were found among the study subjects. with regard to the behavior of taking up a/h1n1 vaccination, there are several related factors found in the current study population, including the perception of life disturbed (or = 1.29; 95%ci 1.11-1.50), the safety of a/h1n1 vaccine (or = 0.07; 95%ci 0.04-0.11), the knowledge of free vaccination policy (or = 7.20; 95%ci 5.91-8.78), the state's priority vaccination strategy(or = 1.33; 95%ci 1.08-1.64), and taking up seasonal influenza vaccine behavior (or = 4.69; 95%ci 3.53-6.23).",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "what is the observed benefit of the molecules?",
+        "answers": [
+            "molecules developed by the university scientists inhibit two coronavirus enzymes and prevent its replication. the discovered drug targets are said to be more than 95% similar to enzyme targets found on the sars virus."
+        ],
+        "ctxs": [
+            {
+                "id": "592",
+                "title": "potential rapid diagnostics, vaccine and therapeutics for 2019 novel coronavirus (2019-ncov): a systematic review",
+                "text": "neutralising antibodies were detected in 50% participants at one or more time points during the study, but only 3% maintained neutralisation activity to end of study. t-cell responses were detected in 71% and 76% participants after 2 and 3 doses, respectively. there were no differences in immune responses between dose groups after 6 weeks and vaccine-induced humoral and cellular responses were respectively detected in 77% and 64% participants at week 60. molecules developed by the university scientists inhibit two coronavirus enzymes and prevent its replication. the discovered drug targets are said to be more than 95% similar to enzyme targets found on the sars virus. researchers note that identified drugs may not be available to address the ongoing outbreak but they hope to make it accessible for future outbreaks. besides the six completed randomized controlled trials (rct) selected from the systematic review (table 6) , there is only one ongoing randomized controlled trial targeted at sars therapeutics  .",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "at what temperatures was the assay completed?",
+        "answers": [
+            "32uc, 37uc, 42uc"
+        ],
+        "ctxs": [
+            {
+                "id": "70",
+                "title": "design, synthesis, evaluation and thermodynamics of 1-substituted pyridylimidazo[1,5-a]pyridine derivatives as cysteine protease inhibitors",
+                "text": "the k m value was calculated from the double-reciprocal equation by fitting the data into the computer software origin 6.1. the lineweaver-burk plot was used to determine the types of inhibition. for the kinetic analysis and rate constant determinations, the assays were carried out in triplicate, and the average value was considered throughout this work. temperature dependence of the inhibition constants was used to determine the thermodynamic parameters. changes in enthalpy (dh) were determined from the van't hoff plots by using the equation,where dh is enthalpy change, r is gas constant, ds is entropy change and t is the absolute temperature. the entropy change was obtained from the equation,the assay was done at different temperatures (32uc, 37uc, 42uc) calculating various k i of 1-pyridylimidazo[1,5-a]pyridine derivatives with papain as model enzyme.the disk diffusion method  was used for the preliminary antibacterial evaluation of 1-pyridylimidazo[1,5-a]pyridine derivatives.",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "why might we underestimate the spread of covid19?",
+        "answers": [
+            "limited information available regarding incubation time, transmissibility, and virus origin"
+        ],
+        "ctxs": [
+            {
+                "id": "1071",
+                "title": "2019-ncov: the identify-isolate-inform (3i) tool applied to a novel emerging coronavirus",
+                "text": "while most cases originated within mainland china, the disease spread to neighboring countries including taiwan, thailand, south korea, and japan, and later to the united states, europe, and australia. a near real-time updated tracking website for cases and locations worldwide, along with reported deaths is available. 2 chinese health authorities have sequenced 2019-ncov and freely shared its genetic profile online. 3, 4 additionally, on january 28, 2020, an australian laboratory reported growing the virus from a patient sample. as of january 30, 2020, there have been at least 9,776 persons infected and 213 verified deaths. 2 these numbers are likely underestimates due to the limited information available regarding incubation time, transmissibility, and virus origin. the what was the research question? investigators adapted the \"identify, isolate, inform\" (3i) tool for use in suspected cases of 2019-ncov.what was the major finding of the study?",
+                "score": "103.232",
+                "has_answer": true
+            }
+        ]
+    }
+]

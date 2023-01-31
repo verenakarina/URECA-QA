@@ -1,0 +1,5 @@
+- model_file=/home/bojic/bt/multihop/en-ja-ru-en/retrieval/model/dpr_biencoder.10
+- qa_dataset=sleep_test
+- ctx_datatsets=[dpr_sleep]
+- encoded_ctx_files=[/home/bojic/bt/multihop/en-ja-ru-en/retrieval/sleep-corpus_e10_0]
+- out_file=/home/bojic/bt/multihop/en-ja-ru-en/retrieval/sleep_test_e10.json

@@ -1,0 +1,94 @@
+encoder:
+  encoder_model_type: hf_bert
+  pretrained_model_cfg: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+  pretrained_file: null
+  projection_dim: 0
+  sequence_length: 300
+  dropout: 0.1
+  fix_ctx_encoder: false
+  pretrained: true
+datasets:
+  nq_test:
+    _target_: dpr.data.retriever_data.CsvQASrc
+    file: data.retriever.qas.nq-test
+  nq_train:
+    _target_: dpr.data.retriever_data.CsvQASrc
+    file: data.retriever.qas.nq-train
+  nq_dev:
+    _target_: dpr.data.retriever_data.CsvQASrc
+    file: data.retriever.qas.nq-dev
+  trivia_test:
+    _target_: dpr.data.retriever_data.CsvQASrc
+    file: data.retriever.qas.trivia-test
+  trivia_train:
+    _target_: dpr.data.retriever_data.CsvQASrc
+    file: data.retriever.qas.trivia-train
+  trivia_dev:
+    _target_: dpr.data.retriever_data.CsvQASrc
+    file: data.retriever.qas.trivia-dev
+  webq_test:
+    _target_: dpr.data.retriever_data.CsvQASrc
+    file: data.retriever.qas.webq-test
+  curatedtrec_test:
+    _target_: dpr.data.retriever_data.CsvQASrc
+    file: data.retriever.qas.curatedtrec-test
+  sleep_train:
+    _target_: dpr.data.retriever_data.CsvQASrc
+    file: ../../../../data/training/sleep-train.csv
+  sleep_dev:
+    _target_: dpr.data.retriever_data.CsvQASrc
+    file: ../../../../data/training/sleep-dev.csv
+  sleep_test:
+    _target_: dpr.data.retriever_data.CsvQASrc
+    file: ../../../../data/training/sleep-test.csv
+  sleep_open:
+    _target_: dpr.data.retriever_data.CsvQASrc
+    file: ../../../../data/training/open_questions.csv
+ctx_sources:
+  dpr_wiki:
+    _target_: dpr.data.retriever_data.CsvCtxSrc
+    file: data.wikipedia_split.psgs_w100
+    id_prefix: 'wiki:'
+  dpr_sleep:
+    _target_: dpr.data.retriever_data.CsvCtxSrc
+    file: ../../../../data/training/sleep-corpus.tsv
+    id_prefix: 'sleep:'
+indexers:
+  flat:
+    _target_: dpr.indexer.faiss_indexers.DenseFlatIndexer
+  hnsw:
+    _target_: dpr.indexer.faiss_indexers.DenseHNSWFlatIndexer
+  hnsw_sq:
+    _target_: dpr.indexer.faiss_indexers.DenseHNSWSQIndexer
+qa_dataset: sleep_test
+ctx_datatsets:
+- dpr_sleep
+encoded_ctx_files:
+- /home/bojic/bt/singlehop/en-es-en/retrieval/sleep-corpus_e24_0
+out_file: /home/bojic/bt/singlehop/en-es-en/retrieval/sleep_test_e24.json
+match: string
+n_docs: 1
+validation_workers: 16
+batch_size: 128
+do_lower_case: true
+encoder_path: null
+index_path: null
+kilt_out_file: null
+model_file: /home/bojic/bt/singlehop/en-es-en/retrieval/model/dpr_biencoder.24
+validate_as_tables: false
+rpc_retriever_cfg_file: null
+rpc_index_id: null
+use_l2_conversion: false
+use_rpc_meta: false
+rpc_meta_compressed: false
+indexer: flat
+special_tokens: null
+local_rank: -1
+global_loss_buf_sz: 150000
+device: null
+distributed_world_size: null
+distributed_port: null
+no_cuda: false
+n_gpu: null
+fp16: false
+fp16_opt_level: O1

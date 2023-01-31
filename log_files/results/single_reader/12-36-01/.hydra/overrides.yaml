@@ -1,0 +1,7 @@
+- prediction_results_file=/home/bojic/bt/singlehop/en-de-en/reader/ep10/pred_oracle_7.125.json
+- eval_top_docs=[1]
+- dev_files=/home/bojic/bt/singlehop/en-de-en/reader/ep10/sleep-test.json
+- model_file=/home/bojic/bt/singlehop/en-de-en/reader/ep10/model/dpr_extractive_reader.7.125
+- train.dev_batch_size=1
+- passages_per_question_predict=1
+- encoder.sequence_length=300
